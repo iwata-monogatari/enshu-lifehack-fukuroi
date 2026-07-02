@@ -4380,10 +4380,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/living-soon/moving-decided/",
@@ -4442,12 +4446,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課戸籍住民係",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/living-soon/school-districts/",
@@ -4507,12 +4515,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "学校教育課指導係",
+   "tel": "0538-86-3222",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/living-soon/transportation/",
@@ -4576,12 +4588,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "協働まちづくり課交通政策係",
+   "tel": "0538-44-3125",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/living-soon/want-to-live/",
@@ -4637,12 +4653,17 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "ブランド戦略課（移住相談）",
+   "tel": "0538-44-3158",
+   "hours": "確認中",
+   "note": "袋井市の人口は実際には減少傾向（令和7年度87,635人→令和8年3月87,395人）。年少人口割合は県内で高い"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/moving-out/bulk-garbage-cleaning/",
@@ -4682,12 +4703,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課",
+   "tel": "0538-84-6057",
+   "hours": "確認中",
+   "note": "粗大ごみは市直営収集なし。民間許可事業所への電話申込か中遠クリーンセンター等への自己搬入"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/moving-out/dog-ownership-change/",
@@ -4720,12 +4746,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課環境衛生係",
+   "tel": "0538-44-3115",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/moving-out/",
@@ -4861,12 +4891,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課戸籍住民係",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/moving-out/school-nursery-procedures/",
@@ -4918,12 +4952,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "学校教育課指導係／教育保育課",
+   "tel": "0538-86-3222",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/moving-out/stop-water/",
