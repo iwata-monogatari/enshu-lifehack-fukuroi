@@ -1770,10 +1770,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/end-of-life/inheritance/",
@@ -1814,12 +1818,17 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課（死亡届）／課税課資産税係（相続人代表者届）／磐田税務署（相続税）",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:15",
+   "note": "袋井市の相続税管轄は磐田税務署"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/end-of-life/inherited-house/",
@@ -1911,12 +1920,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "ふくろいすまいの相談センター",
+   "tel": "0538-44-3321",
+   "hours": "火・水・木・土 8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/end-of-life/pension-inheritance/",
@@ -3362,10 +3375,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/health-medical/mental-health-consulting/",
@@ -3802,10 +3819,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/housing/municipal-housing/",
@@ -5506,12 +5527,16 @@
     "label": "袋井市公式サイト（ホーム）"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "ハブページ。公式トップのみ。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/parents-care/long-term-care-insurance/",
