@@ -203,11 +203,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -1664,12 +1668,22 @@
     "label": "危険空き家解体費用の助成"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/53/sumainosoudann/14612.html",
+    "label": "空家等解体業務",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/brand/brandkakari/furusatonouzei/1540617168849.html",
+    "label": "袋井市空き家等解体ポイント（ふるさと納税返礼品）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/",
@@ -1688,11 +1702,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -3275,11 +3293,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -3671,12 +3693,27 @@
     "label": "住まいの確保にお困りの方へ"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/53/1/12725.html",
+    "label": "宅地耐震化推進事業",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/kaoku/1425447019427.html",
+    "label": "住宅耐震改修に伴う固定資産税の減額",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/53/sumainosoudann/14612.html",
+    "label": "空家等解体業務",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/",
@@ -3695,11 +3732,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -4233,11 +4274,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -4598,11 +4643,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -4866,8 +4915,8 @@
   ],
   "sources_fukuroi": [
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/2/36/1422533219911.html",
-    "label": "成年後見制度による審判の請求手続（市長申立て・費用助成）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/2/1422533219911.html",
+    "label": "成年後見制度による審判の請求手続"
    },
    {
     "url": "https://www.fukuroi-shakyo.or.jp/pages/83/",
@@ -4878,8 +4927,8 @@
     "label": "地域包括支援センター（市内4か所・担当地区・電話）"
    },
    {
-    "url": "https://www.courts.go.jp/saiban/koukenp/index.html",
-    "label": "成年後見制度の手続き案内（裁判所）※磐田から流用"
+    "url": "https://www.courts.go.jp/saiban/koukenp00/index.html",
+    "label": "後見ポータルサイト（裁判所）"
    },
    {
     "url": "https://www.courts.go.jp/shizuoka/about/syozai/hamamatsu/index.html",
@@ -4890,7 +4939,7 @@
    "window": "袋井市成年後見支援センター（社協）",
    "tel": "0538-42-7914",
    "hours": "毎月第2・第4水曜 13:30〜16:30（相談所）",
-   "note": "家裁は静岡家裁浜松支部（浜松市中央区中央1-12-5／053-453-7168）。任意後見は袋井公証役場（高尾1129-1 キラット3階／0538-42-8412）。低所得者向け費用・報酬助成あり（在宅月額28,000円・施設18,000円限度）（確認中: 本文未確認 053-453-7168）（確認中: 本文未確認 0538-42-8412）（確認中: 本文未確認 28,000円）（確認中: 本文未確認 18,000円）"
+   "note": "家裁は静岡家裁浜松支部（浜松市中央区中央1-12-5／053-453-7168）。任意後見は袋井公証役場（高尾1129-1 キラット3階／0538-42-8412）。低所得者向け費用・報酬助成あり（在宅月額28,000円・施設18,000円限度）（確認中: 本文未確認 0538-42-8412）"
   },
   "status": "ai-checked",
   "verified_date": null,
@@ -4930,8 +4979,8 @@
   ],
   "sources_fukuroi": [
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
-    "label": "介護保険申請から利用まで（要介護認定）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
+    "label": "介護保険申請から利用まで"
    },
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
@@ -4944,7 +4993,7 @@
   ],
   "facts": {
    "window": "保険課介護保険係（申請受付）／健康長寿課地域包括ケア推進係（総合健康センター）",
-   "tel": "保険課介護保険係 0538-44-3152／介護認定係 0538-44-3147／地域包括ケア推進係 0538-84-7534（確認中: 本文未確認 0538-44-3152）（確認中: 本文未確認 0538-44-3147）（確認中: 本文未確認 0538-84-7534）",
+   "tel": "保険課介護保険係 0538-44-3152／介護認定係 0538-44-3147／地域包括ケア推進係 0538-84-7534（確認中: 本文未確認 0538-44-3152）",
    "note": "申請から認定通知まで1か月程度。65歳以上は介護保険被保険者証（ピンク）持参。申請書は市サイトからDL可",
    "line_shinchoku": "非該当見込み（磐田固有のLINE進捗確認・袋井相当サービス未発見のため確認中）",
    "shougaisha_koujo": "確認中（障害者控除認定の袋井版ページ）"
@@ -4991,12 +5040,12 @@
     "label": "地域包括支援センター（市内4か所・担当地区・電話）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
-    "label": "介護保険申請から利用まで（要介護認定）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
+    "label": "介護保険申請から利用まで"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
-    "label": "総合相談窓口（はーとふるプラザ袋井）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_sodan/13975.html",
+    "label": "総合相談窓口(健康や医療、介護など生活に関する相談)"
    },
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
@@ -5008,10 +5057,11 @@
    "tel": "不明時は健康長寿課地域包括ケア推進係 0538-84-7836",
    "hours": "包括は平日8:30〜17:30（時間外は転送電話対応）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "ケアプラン作成の単独ページは未発見（申請から利用までのページに統合されている）。"
+  "ai_notes": "ケアプラン作成の単独ページは未発見（申請から利用までのページに統合されている）。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/check-parents/",
@@ -5047,15 +5097,15 @@
   ],
   "sources_fukuroi": [
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
-    "label": "総合相談窓口（はーとふるプラザ袋井）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_sodan/13975.html",
+    "label": "総合相談窓口(健康や医療、介護など生活に関する相談)"
    },
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
     "label": "地域包括支援センター（市内4か所・担当地区・電話）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/josei/1422533213597.html",
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/josei/1425446933332.html",
     "label": "緊急通報システム機器の貸与"
    },
    {
@@ -5074,10 +5124,11 @@
    "note": "緊急通報システムは機器レンタル料・設置料を市負担（通話料のみ自己負担）。申請は健康長寿課または浅羽支所市民サービス課でも可",
    "haishoku": "確認中（配食サービス・安否確認兼用の袋井版ページ）"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "磐田の見守りネットワークに相当するのは「はいかいSOSネットワーク」＋民間協力事業所。配食サービス（安否確認兼用）の袋井版ページは要追加調査。"
+  "ai_notes": "磐田の見守りネットワークに相当するのは「はいかいSOSネットワーク」＋民間協力事業所。配食サービス（安否確認兼用）の袋井版ページは要追加調査。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/community-support-center/",
@@ -5201,8 +5252,8 @@
     "label": "はいかいSOSネットワーク事業（あんしん見守りシール・個人賠償保険含む）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
-    "label": "総合相談窓口（はーとふるプラザ袋井）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_sodan/13975.html",
+    "label": "総合相談窓口(健康や医療、介護など生活に関する相談)"
    }
   ],
   "facts": {
@@ -5212,10 +5263,11 @@
    "care_path": "確認中（袋井版認知症ケアパスのURL）",
    "ninchisho_cafe": "確認中"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "袋井版認知症ケアパス（ハンドブック）のURLは未取得＝認知症総合ページ内で人力確認。認知症カフェの袋井版ページも要追加調査。"
+  "ai_notes": "袋井版認知症ケアパス（ハンドブック）のURLは未取得＝認知症総合ページ内で人力確認。認知症カフェの袋井版ページも要追加調査。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/elderly-transportation/",
@@ -5320,30 +5372,27 @@
   ],
   "sources_fukuroi": [
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/shisetsu/index.html",
-    "label": "高齢者施設（市の案内）"
-   },
-   {
     "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/5/2/1422533164736.html",
     "label": "介護サービス事業所一覧"
    },
    {
     "url": "https://www.kaigokensaku.mhlw.go.jp/22/",
-    "label": "介護サービス情報公表システム（静岡県）※磐田から流用"
+    "label": "介護サービス情報公表システム（静岡県）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
-    "label": "介護保険申請から利用まで（要介護認定）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
+    "label": "介護保険申請から利用まで"
    }
   ],
   "facts": {
    "window": "施設の種類の相談は地域包括支援センター／事業所一覧は保険課",
    "tel": "保険課介護認定係 0538-44-3147"
   },
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "磐田のような施設種類別ページ（特養・老健・サ高住・GH個別）は袋井には無い可能性が高く、「高齢者施設」「事業所一覧」ページの実際の中身を人力確認して本文構成を決める。"
+  "ai_notes": "磐田のような施設種類別ページ（特養・老健・サ高住・GH個別）は袋井には無い可能性が高く、「高齢者施設」「事業所一覧」ページの実際の中身を人力確認して本文構成を決める。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/",
@@ -5364,7 +5413,7 @@
   "sources_fukuroi": [
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/",
-    "label": "袋井市公式サイトを確認する"
+    "label": "袋井市公式サイト（ホーム）"
    }
   ],
   "facts": {},
@@ -5415,16 +5464,16 @@
   ],
   "sources_fukuroi": [
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
-    "label": "介護保険申請から利用まで（要介護認定）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
+    "label": "介護保険申請から利用まで"
    },
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
     "label": "介護に関する相談（一覧）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
-    "label": "（同上：要支援=包括へ・要介護=ケアマネへの流れ含む）"
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
+    "label": "介護保険申請から利用まで"
    }
   ],
   "facts": {
@@ -5589,12 +5638,22 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/machizukuri/koen/index.html",
+    "label": "公園",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/koen_noen/index.html",
+    "label": "公園・農園",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/",
@@ -5613,11 +5672,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -5647,12 +5710,22 @@
     "label": "地図から探す"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/machizukuri/koen/index.html",
+    "label": "公園",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/koen_noen/index.html",
+    "label": "公園・農園",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/parking-access/",
@@ -6428,11 +6501,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -7450,12 +7527,22 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1425447035491.html",
+    "label": "農地を農地として売買、貸借する場合",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/1478591738115.html",
+    "label": "農地を農地以外のもの(宅地等)に転用する場合",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/change-use/",
@@ -8237,11 +8324,15 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイト（ホーム）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "ai-checked",
   "verified_date": null
  },
  {
@@ -8730,12 +8821,22 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
-  },
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyosha/1425447031509.html",
+    "label": "就農希望者への支援制度",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoshinko/1425447033394.html",
+    "label": "新規就農者育成総合対策（経営開始資金）",
+    "confidence": "high"
+   }
+  ],
+  "facts": {},
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/subsidies/",
