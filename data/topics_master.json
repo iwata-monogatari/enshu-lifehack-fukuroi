@@ -813,12 +813,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "危機管理課／建築住宅課施設営繕係",
+   "tel": "0538-86-3701",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/emergency-medical/",
@@ -857,12 +861,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "健康未来課 地域医療推進係／救急安心電話相談#7119",
+   "tel": "0538-43-7640",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/evacuation-centers/",
@@ -926,12 +934,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "危機管理課 災害対策係",
+   "tel": "0538-86-3701",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/evacuation-hazard-map/",
@@ -995,12 +1007,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "危機管理課 防災減災推進係",
+   "tel": "0538-86-3703",
+   "hours": "平日8:30-17:15",
+   "note": "静岡県「わたしの避難計画（わたひな）」・国交省マイ・タイムラインを案内"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/fire-ambulance/",
@@ -1147,12 +1164,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "土木防災課予防保全係／農政課農地整備係",
+   "tel": "0538-44-3131",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/",
@@ -1185,12 +1206,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/pet-disaster-prevention/",
@@ -1262,12 +1287,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課 環境衛生係",
+   "tel": "0538-44-3115",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/road-river-info/",
@@ -1344,12 +1373,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "危機管理課 災害対策係",
+   "tel": "0538-86-3701",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/emergency/storm-heavy-rain/",
@@ -1426,12 +1459,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "危機管理課",
+   "tel": "0538-86-3701",
+   "hours": "平日8:30-17:15",
+   "note": "2026年5月29日から防災気象情報の体系が警戒レベル明記の新体系に移行"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/end-of-life/after-death-procedures/",
