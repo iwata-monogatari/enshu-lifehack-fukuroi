@@ -8681,12 +8681,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "納税課納税証明係",
+   "tel": "0538-44-3219",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/",
@@ -8712,10 +8716,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/job-change/",
@@ -8892,12 +8900,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "納税課納税証明係",
+   "tel": "0538-44-3219",
+   "hours": "平日8:30-17:15",
+   "note": "環境性能割は2026年3月31日をもって廃止"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/my-number-card/",
@@ -8948,12 +8961,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課マイナンバー利用推進係／保険課保険給付係",
+   "tel": "0538-44-3108",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/national-health-insurance-tax/",
@@ -9066,12 +9083,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "保険課国保年金係",
+   "tel": "0538-44-3113",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/resident-tax/",
@@ -9126,12 +9147,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "課税課市民税係",
+   "tel": "0538-44-3109",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/start-business/",
@@ -9215,10 +9240,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課農業振興係／中遠農林事務所",
+   "tel": "0538-44-3133",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/subsidies/",
@@ -9262,15 +9291,15 @@
    }
   ],
   "facts": {
-   "window": "制度により所管課が異なる（住宅関連は建築住宅課、子育ては子育て支援課、高齢者は健康長寿課など）",
-   "tel": "袋井市役所代表 0538-43-2111",
-   "note": "袋井市の補助金・助成金は目的別に制度が分かれている。住宅の省エネ改修・空き家リフォームなど工事着手前や購入前の事前申請が必須な制度が多いため、着手前に各制度の個別ページで対象要件・申請時期を確認する必要がある。全制度の一覧は「補助金・助成金」検索ページから確認可"
+   "window": "産業未来課産業政策係",
+   "tel": "0538-44-3136",
+   "hours": "確認中"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "袋井市には磐田の「支援制度一覧」に相当する単一の網羅ページがなく、住宅・子育て・高齢者など分野別ページに分かれている。市公式ページで確認済み。",
-  "verified_by": "chat"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/tax/",
@@ -9380,12 +9409,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "納税課納税証明係",
+   "tel": "0538-44-3219",
+   "hours": "平日8:30-17:15",
+   "note": "税務証明1通350円"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/tax-guide/",
@@ -9423,11 +9457,15 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "納税課収納対策係／課税課市民税係・資産税係",
+   "tel": "0538-44-3111",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  }
 ]
