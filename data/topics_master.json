@@ -5703,12 +5703,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "月見の里学遊館／メロープラザ",
+   "tel": "0538-49-3400",
+   "hours": "9:00-22:00（受付9:00-17:00）"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/facilities-library-parks/",
@@ -5763,12 +5767,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "総合政策課広報広聴係",
+   "tel": "0538-44-3104",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/find-parks/",
@@ -5838,10 +5846,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/kids-playgrounds/",
@@ -5882,10 +5894,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "中央子育て支援センター「カンガルーのぽっけ」",
+   "tel": "0538-45-0085",
+   "hours": "9:30-11:30/13:00-17:30"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/parking-access/",
@@ -5940,12 +5956,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "協働まちづくり課交通政策係",
+   "tel": "0538-44-3125",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/rent-public-facilities/",
@@ -6001,12 +6021,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "スポーツ政策課",
+   "tel": "0538-44-3139",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/sports-facilities/",
@@ -6063,12 +6087,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "さわやかアリーナ（袋井市総合体育館）",
+   "tel": "0538-31-2070",
+   "hours": "8:30-21:30"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/swimming-pools/",
@@ -6123,12 +6151,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "月見の里学遊館「水玉プール」",
+   "tel": "0538-49-3201",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/play-out/visit-library/",
@@ -6183,12 +6215,17 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "袋井図書館",
+   "tel": "0538-42-5325",
+   "hours": "9:30-17:30（水木9:30-19:00）",
+   "note": "袋井図書館・浅羽図書館・月見の里学遊館図書館分室の3館体制"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/bulky-garbage-dropoff/",
