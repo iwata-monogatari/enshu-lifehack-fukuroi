@@ -85,6 +85,8 @@ git push -u origin main
 
 main直コミット、コミットメッセージは日本語とする。**pushは確認不要・Claude Codeの判断でコミット後そのままpushしてよい**（2026-07-02改訂：従来は「公開に影響する変更はpush前に大石が確認」としていたが、machine-verified運用の定着に伴いこの事前確認ゲートは廃止した）。
 
+**デプロイについて（2026-07-03追記）**：本サイトはGitHub連携のWorkers Builds自動デプロイではなく、`npx wrangler deploy`による手動デプロイ方式で運用されている（初回デプロイもwranglerコマンドで行われた）。したがって`git push`だけでは本番（https://fukuroi.enshu-lifehack.com/）に反映されない。ページ生成・修正作業の一連の流れの中で、コミット・push後に`npx wrangler deploy`も確認なしで実行し、本番反映まで完了させること。
+
 ---
 
 ## 3. Cloudflare初期設定
