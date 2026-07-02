@@ -6588,12 +6588,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課環境衛生係",
+   "tel": "0538-44-3115",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/garbage-sorting-calendar/",
@@ -6658,12 +6662,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課ごみ減量推進係",
+   "tel": "0538-84-6057",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/how-to-garbage/",
@@ -6726,12 +6734,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課ごみ減量推進係",
+   "tel": "0538-84-6057",
+   "hours": "確認中",
+   "note": "令和7年4月から製品プラスチックのリサイクル開始"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/",
@@ -6756,10 +6769,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/moved-in/",
@@ -6823,12 +6840,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課戸籍住民係",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/moving-address-change/",
@@ -6892,12 +6913,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/mynumber/",
@@ -6961,12 +6986,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課マイナンバー利用推進係",
+   "tel": "0538-44-3108",
+   "hours": "平日8:30-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/pets-lost-animals/",
@@ -7023,12 +7052,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課環境衛生係",
+   "tel": "0538-44-3115",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/public-transit/",
@@ -7093,12 +7126,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "協働まちづくり課交通政策係",
+   "tel": "0538-44-3125",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/resident-registration/",
@@ -7161,12 +7198,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課戸籍住民係",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:00",
+   "note": "住民票の写し1通350円（令和7年4月1日改定）"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/water-sewer/",
@@ -7238,12 +7280,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "水道課水道経営係／下水道課下水道経営係",
+   "tel": "0538-84-6058",
+   "hours": "確認中"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/start-living/water-start-stop-fees/",
@@ -7319,12 +7365,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "水道課水道経営係",
+   "tel": "0538-84-6058",
+   "hours": "確認中",
+   "note": "給水届は電話受付不可（電子申請・ファクス・窓口）"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/animal-pet-consultation/",
