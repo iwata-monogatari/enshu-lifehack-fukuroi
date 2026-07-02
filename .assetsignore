@@ -1,0 +1,16 @@
+wrangler.toml
+.assetsignore
+README.md
+.gitignore
+.git
+.git/**
+.wrangler
+.wrangler/**
+parts
+parts/**
+reports
+reports/**
+.github
+.github/**
+docs
+docs/**
