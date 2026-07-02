@@ -1638,12 +1638,34 @@
     "label": "磐田市合葬墓"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/16/1/koen_boen/1467073210774.html",
+    "label": "袋井市夢の丘墓園 ご利用案内"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/16/1/kankyozenpan/1422534782364.html",
+    "label": "改葬許可"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/16/1/kankyozenpan/1467864979755.html",
+    "label": "墓地の管理者、使用者の皆様へ"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/29/tyuuenn/12263.html",
+    "label": "分骨証明について"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "環境・リサイクル推進課環境衛生係",
+   "tel": "0538-44-3115",
+   "note": "市営墓地は「袋井市夢の丘墓園」（新規区画は募集時のみ受付、管理料は毎年5月納付）。改葬（お墓の引っ越し）は改葬許可申請書（現墓地管理者の埋葬証明付き）を環境政策課または浅羽支所市民サービス課へ提出、手数料は無料。分骨には分骨証明書が必要"
   },
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "市公式ページ（夢の丘墓園・改葬許可・墓地の管理者向けページ）で確認済み。民間・寺院墓地の個別料金は対象外のため掲載していない。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/end-of-life/house-became-vacant/",
@@ -4092,12 +4114,12 @@
   "verified_by": "machine"
  },
  {
-  "href": "/life/living-soon/about-iwata/",
+  "href": "/life/living-soon/about-fukuroi/",
   "icon": "🏡",
-  "title_iwata": "磐田で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
+  "title_iwata": "袋井で暮らす前に、地図だけでは見えない生活の手触りを確認する。",
   "category": "これから暮らす",
   "synonyms": [
-   "磐田市の暮らし"
+   "袋井市の暮らし"
   ],
   "tier": "common",
   "source_iwata": [
@@ -4118,12 +4140,26 @@
     "label": "磐田市公式ウェブサイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://fukuroi-iju.jp/support.html",
+    "label": "ふくろいの支援制度（袋井市移住交流ポータルサイト）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式ウェブサイト"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "ブランド戦略課（ふくろい移住相談窓口）",
+   "tel": "0538-44-3158",
+   "note": "移住・定住支援は「住まい」「仕事」「結婚・子育て」「医療・福祉」「その他」の5分野に整理（移住交流ポータルサイトふくろい-iju.jpで確認）。「移住・就業支援金制度」という制度名は市公式サイトに存在するが、金額・要件を掲載していた個別ページは404で確認できず、令和7年度以降の実施状況・金額は要問合せ（0538-44-3158）"
   },
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "元データは磐田市固有の内容（href/title/synonymsに「磐田」が残存）だったため、袋井版に差し替えた。市公式ページの個別制度ページ（ijyuteijyu/11183.html等）は現在404のため削除し、移住交流ポータルサイトと相談窓口情報のみ掲載。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/living-soon/bus-license-return/",
@@ -5001,14 +5037,14 @@
    "window": "保険課介護認定係（申請受付）／健康長寿課地域包括ケア推進係（総合健康センター）",
    "tel": "保険課介護認定係 0538-44-3147／地域包括ケア推進係 0538-84-7534／浅羽支所市民サービス課 0538-23-9211",
    "note": "申請から認定通知まで1か月程度。65歳以上は介護保険被保険者証（ピンク）持参。申請書は市サイトからDL可",
-   "line_shinchoku": "非該当見込み（磐田固有のLINE進捗確認・袋井相当サービス未発見のため確認中）",
-   "shougaisha_koujo": "確認中（障害者控除認定の袋井版ページ）"
+   "line_shinchoku": "非該当（袋井市にLINEでの介護認定進捗確認サービスは見当たらず。磐田市固有のサービス）",
+   "shougaisha_koujo": "確認中（袋井市公式サイト上に単独ページ未発見。65歳以上で要介護認定等がある場合の障害者控除対象者認定書の交付は健康長寿課地域包括ケア推進係 0538-84-7534 へ要電話確認）"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "磐田のLINE進捗確認に相当する袋井サービスは未確認（おそらく非該当）。障害者控除認定の袋井版ページも未調査＝要追加調査。電話番号は市公式ページ（介護保険申請から利用まで）で確認済み、「保険課介護保険係」という部署名は誤りだったため「保険課介護認定係」に修正。",
-  "verified_by": "machine"
+  "ai_notes": "電話番号は市公式ページ（介護保険申請から利用まで）で確認済み、「保険課介護保険係」という部署名は誤りだったため「保険課介護認定係」に修正。LINE進捗確認は袋井市に非該当と確認。障害者控除認定は単独ページ未発見のため電話確認扱いとした。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/parents-care/care-started/",
@@ -5122,6 +5158,10 @@
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_service/index.html",
     "label": "高齢者に関するサービス（一覧）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/josei/index.html",
+    "label": "助成・手当（高齢者・高齢者等配食サービスの助成を含む）"
    }
   ],
   "facts": {
@@ -5129,13 +5169,13 @@
    "tel": "0538-84-7836（はよ なやみむ）",
    "hours": "8:30〜17:15（土日祝・年末年始除く）",
    "note": "緊急通報システムは機器レンタル料・設置料を市負担（通話料のみ自己負担）。申請は健康長寿課または浅羽支所市民サービス課でも可",
-   "haishoku": "確認中（配食サービス・安否確認兼用の袋井版ページ）"
+   "haishoku": "高齢者等配食サービスの助成＝要介護1以上等の在宅高齢者に月〜土の昼・夕食を配達（週10食上限）、見守り確認も兼ねる。利用者負担は1食290円の補助を差し引いた金額。窓口は健康長寿課地域包括ケア推進係 0538-84-7836（個別ページは404のため「助成・手当（高齢者）」一覧ページへの掲載を確認）"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "磐田の見守りネットワークに相当するのは「はいかいSOSネットワーク」＋民間協力事業所。配食サービス（安否確認兼用）の袋井版ページは要追加調査。",
-  "verified_by": "machine"
+  "ai_notes": "磐田の見守りネットワークに相当するのは「はいかいSOSネットワーク」＋民間協力事業所。配食サービスの個別ページ（soshiki/10/1003/josei/1422533212751.html）は404だったため、一覧ページ（助成・手当）への掲載で代替確認。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/parents-care/community-support-center/",
@@ -5261,20 +5301,24 @@
    {
     "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_sodan/13975.html",
     "label": "総合相談窓口(健康や医療、介護など生活に関する相談)"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/ninchisyou/ninchisyocafe.html",
+    "label": "オレンジカフェ"
    }
   ],
   "facts": {
    "window": "地区の地域包括支援センター／総合相談窓口",
    "tel": "健康長寿課地域包括ケア推進係 0538-84-7836",
    "note": "はいかいSOSネットワーク＝事前登録制（磐田の見守りオレンジシールに相当する「あんしん見守りシール」あり）。認知症高齢者等個人賠償責任保険あり（市税・介護保険料滞納なし等の要件）",
-   "care_path": "確認中（袋井版認知症ケアパスのURL）",
-   "ninchisho_cafe": "確認中"
+   "care_path": "確認中（磐田の「いわた認知症ハンドブック」のような単独パンフレットPDFは市公式サイト上に未発見。健康長寿課地域包括ケア推進係 0538-84-7836 または各地域包括支援センターの窓口配布物として要問合せ）",
+   "ninchisho_cafe": "袋井市の認知症カフェは「オレンジカフェ」の名称で開催。認知症の人・家族・地域住民・専門職が自由に集い相談できる場"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "袋井版認知症ケアパス（ハンドブック）のURLは未取得＝認知症総合ページ内で人力確認。認知症カフェの袋井版ページも要追加調査。",
-  "verified_by": "machine"
+  "ai_notes": "認知症カフェは「オレンジカフェ」ページで確認済み。認知症ケアパス相当の単独パンフレットは市公式サイト上に見当たらず、電話確認扱いとした。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/parents-care/elderly-transportation/",
@@ -5326,13 +5370,13 @@
    "window": "協働まちづくり課交通政策係",
    "tel": "0538-44-3125（利用者登録）／予約は遠鉄タクシー 0538-32-7228",
    "note": "自主運行バス＝南部循環線メローバス・北部循環線フーちゃん号（一律100円）、デマンドタクシー＝停留所型（法多線・高南地区及び豊沢地区）一律300円・ドアツードア型（宇刈・浅羽南・浅羽西地区）通常500円／乗合400円、未就学児は無料・障害者手帳等保持者は半額、平日のみ運行。事前の利用者登録と予約が必要",
-   "taxi_josei": "確認中（磐田の高齢者タクシー料金助成に相当する袋井の制度は市公式で未発見）"
+   "taxi_josei": "非該当（磐田市の「高齢者タクシー料金助成」に相当する一般高齢者向け制度は袋井市に見当たらず。「タクシー料金割引乗車券」は障害者手帳保持者向けの別制度）"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "磐田の「高齢者タクシー料金助成」に相当する袋井の助成制度の有無は未確認＝人力確認必須（存在しない場合は本文構成を磐田と変える）。運賃は市公式ページ（デマンドタクシー案内）で確認済み・Wikipedia由来の旧数値（200円/400円）から修正。",
-  "verified_by": "machine"
+  "ai_notes": "運賃は市公式ページ（デマンドタクシー案内）で確認済み・Wikipedia由来の旧数値（200円/400円）から修正。高齢者タクシー料金助成は袋井市に非該当と確認（障害者向け割引乗車券のみ存在）。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/parents-care/find-nursing-home/",
@@ -5481,23 +5525,27 @@
     "label": "介護に関する相談（一覧）"
    },
    {
-    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigohoken/8659.html",
-    "label": "介護保険申請から利用まで"
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533179585.html",
+    "label": "介護保険料"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigo_service/1422533164946.html",
+    "label": "高額介護（介護予防）サービス費の支給"
    }
   ],
   "facts": {
-   "window": "保険課介護認定係",
-   "tel": "0538-44-3147",
+   "window": "保険課介護認定係（要介護認定の申請）／保険課介護保険係（保険料・高額介護サービス費など）",
+   "tel": "介護認定係 0538-44-3147／介護保険係 0538-44-3152",
    "note": "申請→訪問調査＋主治医意見書→介護認定審査会→約1か月で通知→要支援は地域包括支援センター・要介護はケアマネにケアプラン依頼",
-   "hokenryou": "確認中",
-   "futan_gendogaku": "確認中",
-   "kougaku_kaigo": "確認中"
+   "hokenryou": "基準額（第5段階）年額68,400円（月額5,700円）。所得に応じて第1段階19,400円〜第14段階177,800円の14段階",
+   "futan_gendogaku": "確認中（介護保険負担限度額認定は電子申請ページの案内は確認できたが、袋井版の単独説明ページは未発見。保険課介護保険係 0538-44-3152 へ要確認）",
+   "kougaku_kaigo": "1か月の利用者負担額（同一世帯の合計含む）が上限額を超えた分を申請により払い戻し。該当者には利用月の翌々月に市から申請書を送付。保険課介護保険係のほか浅羽支所（0538-23-9211）でも申請受付可"
   },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "介護保険料・負担限度額認定・高額介護サービス費の袋井版個別ページは未調査＝要追加調査（3本）。電話番号は市公式ページ（介護保険申請から利用まで）で確認済み、「保険課介護保険係」という部署名は誤りだったため「保険課介護認定係」に修正。",
-  "verified_by": "machine"
+  "ai_notes": "介護保険料・高額介護サービス費は市公式ページで確認済み。電話番号は「保険課介護認定係」（申請）と「保険課介護保険係」（保険料等）の2部署が別々に存在することを確認し、前回の一本化修正を訂正した。負担限度額認定は単独ページ未発見のため電話確認扱い。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/play-out/cultural-facilities/",
@@ -8874,12 +8922,34 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/hojyokinn/index.html",
+    "label": "補助金・助成金（検索）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/53/1/hojo/index.html",
+    "label": "各種補助制度（住宅関連）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/teate/index.html",
+    "label": "手当・給付・助成など（子育て）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/josei/index.html",
+    "label": "助成・手当（高齢者）"
+   }
+  ],
   "facts": {
-   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+   "window": "制度により所管課が異なる（住宅関連は建築住宅課、子育ては子育て支援課、高齢者は健康長寿課など）",
+   "tel": "袋井市役所代表 0538-43-2111",
+   "note": "袋井市の補助金・助成金は目的別に制度が分かれている。住宅の省エネ改修・空き家リフォームなど工事着手前や購入前の事前申請が必須な制度が多いため、着手前に各制度の個別ページで対象要件・申請時期を確認する必要がある。全制度の一覧は「補助金・助成金」検索ページから確認可"
   },
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "袋井市には磐田の「支援制度一覧」に相当する単一の網羅ページがなく、住宅・子育て・高齢者など分野別ページに分かれている。市公式ページで確認済み。",
+  "verified_by": "chat"
  },
  {
   "href": "/life/work-life/tax/",
