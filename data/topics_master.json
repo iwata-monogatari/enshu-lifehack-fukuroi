@@ -211,8 +211,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-attendance-support/",
@@ -1710,8 +1711,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/inheritance/",
@@ -3301,8 +3303,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/mental-health-consulting/",
@@ -3740,8 +3743,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/municipal-housing/",
@@ -4282,8 +4286,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/moving-decided/",
@@ -4651,8 +4656,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/move-out-notice/",
@@ -5419,10 +5425,11 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null,
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
-  "ai_notes": "ハブページ。公式トップのみ。"
+  "ai_notes": "ハブページ。公式トップのみ。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/long-term-care-insurance/",
@@ -5683,8 +5690,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/kids-playgrounds/",
@@ -6512,8 +6520,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/moved-in/",
@@ -8335,8 +8344,9 @@
    }
   ],
   "facts": {},
-  "status": "ai-checked",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/job-change/",
