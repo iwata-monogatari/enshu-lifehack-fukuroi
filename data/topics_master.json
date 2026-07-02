@@ -7199,12 +7199,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "環境・リサイクル推進課 環境衛生係",
+   "tel": "0538-44-3115",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/cannot-pay-tax/",
@@ -7268,12 +7272,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "納税課 収納対策係",
+   "tel": "0538-44-3111",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/care-consultation/",
@@ -7336,12 +7344,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "健康長寿課 地域包括ケア推進係／総合相談窓口（はーとふるプラザ袋井）",
+   "tel": "0538-84-7836",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/child-consultation/",
@@ -7412,12 +7424,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "こども若者家庭センター（こども支援課相談係）",
+   "tel": "0538-44-3161",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/consumer-fraud/",
@@ -7485,12 +7501,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "産業未来課 産業政策係／袋井市消費生活センター",
+   "tel": "0538-44-3174",
+   "hours": "月・火・木・金 9:00-16:30"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/disability-consultation/",
@@ -7561,12 +7581,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "しあわせ推進課 障がい者福祉係／袋井市基幹相談支援センター",
+   "tel": "0538-44-3114",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/certificates/",
@@ -7599,10 +7623,14 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/change-use/",
@@ -7636,12 +7664,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15",
+   "note": "農振除外の申し出受付は2026年3月～2027年3月停止予定（定期見直しのため）"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/conversion/",
@@ -7685,12 +7718,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/",
@@ -7763,12 +7800,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/inheritance/",
@@ -7835,12 +7876,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）／課税課 資産税係",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/noshin-exclusion/",
@@ -7870,12 +7915,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "確認中",
+   "note": "受付は年2回(3月・8月)。2026年3月～2027年3月は受付停止予定"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/farmland/sell-or-rent/",
@@ -7939,12 +7989,17 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "農政課 農地活用推進係（農業委員会事務局）",
+   "tel": "0538-44-3167",
+   "hours": "平日8:30-17:15",
+   "note": "令和7年度から農地の貸借は農地バンク（農地中間管理事業）に一本化"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/foreign-resident-consultation/",
@@ -7999,12 +8054,16 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課 戸籍住民係／袋井国際交流協会",
+   "tel": "0538-44-3112",
+   "hours": "平日8:30-17:15"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/",
@@ -8036,12 +8095,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "（カテゴリハブ・個別窓口は各詳細ページ参照）",
+   "tel": "",
+   "hours": ""
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/legal-general-consultation/",
@@ -8112,12 +8175,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "市民課（相談予約）",
+   "tel": "0538-44-3112",
+   "hours": "各相談ごとに異なる（本文参照）"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/living-costs-trouble/",
@@ -8177,12 +8244,16 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "しあわせ推進課 生活福祉係／袋井市生活自立相談センター",
+   "tel": "0538-44-0885",
+   "hours": "平日9:00-17:00"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/road-repair-mirror/",
@@ -8227,12 +8298,17 @@
     "confidence": "low"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "ふくろいインフラメンテナンスセンター（道路）／照明管理センター（照明灯）",
+   "tel": "0538-24-8222",
+   "hours": "確認中",
+   "note": "カーブミラーの専用窓口は公式ページ上で確認できず。維持管理課管理係(0538-44-3130)に要確認"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/troubles-consult/vacant-house-consultation/",
@@ -8300,12 +8376,17 @@
     "confidence": "high"
    }
   ],
-  "facts": {},
+  "facts": {
+   "window": "ふくろいすまいの相談センター",
+   "tel": "0538-44-3321",
+   "hours": "火・水・木・土 8:30-17:15",
+   "note": "「空き家バンク」という名称の制度はなく、空家等不動産流動化業務として運用"
+  },
   "status": "machine-verified",
   "verified_date": "2026-07-02",
   "ai_checked_date": "2026-07-02",
   "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
-  "verified_by": "machine"
+  "verified_by": "chat-review"
  },
  {
   "href": "/life/work-life/city-tax-payment/",
