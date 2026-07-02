@@ -29,10 +29,38 @@
     "label": "子育て・教育"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/hokago/index.html",
+    "label": "＜小学校＞放課後子ども教室放課後児童クラブ／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/2/hokagozidoukurabu/index.html",
+    "label": "放課後児童クラブ／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/2/hokagozidoukurabu/1605688104002.html",
+    "label": "放課後児童クラブひとり親家庭等軽減制度のご案内／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_tetuzuki/zidoukurabu/index.html",
+    "label": "放課後児童クラブ／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/educational-consulting/",
@@ -63,10 +91,38 @@
     "label": "小学校・中学校・高校"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/24/3/kyoiku/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/sisetu/14478.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/index.html",
+    "label": "小学校・中学校／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_kyouikuzyouho/14481.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/elementary-middle-school/",
@@ -97,10 +153,38 @@
     "label": "学校・園情報"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/26/2/gakko/1422533463750.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/sisetu/14478.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/index.html",
+    "label": "小学校・中学校／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_tetuzuki/14468.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/",
@@ -120,7 +204,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -153,10 +239,38 @@
     "label": "子育てに関する悩み・相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/24/3/kyoiku/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/fukuroshikyouikuiinnkai/zigyou_keikaku/14447.html",
+    "label": "教育委員会の点検・評価を実施しました／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syougaigakusyu/kyoikuzyohou/syakaikyouiku/index.html",
+    "label": "社会教育委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-district-transfer/",
@@ -186,10 +300,38 @@
     "label": "体験入学願い・保護者変更届"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_tetuzuki/14526.html",
+    "label": "小・中学校の入学・転校の手続きについて／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/tsugaku/1461731736227.html",
+    "label": "小・中学校の入学・転校の手続きについて／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/26/2/gakko/1422533463750.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_tetuzuki/14468.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-expense-support/",
@@ -220,10 +362,38 @@
     "label": "教育委員会"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/24/3/kyoiku/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/fukuroshikyouikuiinnkai/zigyou_keikaku/14447.html",
+    "label": "教育委員会の点検・評価を実施しました／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/24/3/syugaku_enzyo/index.html",
+    "label": "就学援助／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-meals/",
@@ -254,10 +424,38 @@
     "label": "子育て・教育"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/sisetu/14478.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/index.html",
+    "label": "小学校・中学校／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_kyouikuzyouho/14481.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/syoukai/1425446948878.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/school-zones/",
@@ -288,10 +486,38 @@
     "label": "相談・手続き"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/sisetu/14478.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/index.html",
+    "label": "小学校・中学校／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_kyouikuzyouho/14481.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/syoukai/1425446948878.html",
+    "label": "小学校・中学校の紹介／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/education/study-facilities/",
@@ -322,10 +548,38 @@
     "label": "教育委員会"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/24/3/kyoiku/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/index.html",
+    "label": "教育委員会／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/fukuroshikyouikuiinnkai/zigyou_keikaku/14447.html",
+    "label": "教育委員会の点検・評価を実施しました／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/45/shisetsu/1422535405037.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/disaster-certificates-procedures/",
@@ -364,10 +618,38 @@
     "label": "申請書ダウンロード"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152446314.html",
+    "label": "国民健康保険税が払えないので、国民健康保険をやめたいのですが。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152445578.html",
+    "label": "現在収入がないが、国民健康保険税を払わなければいけませんか。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152445092.html",
+    "label": "職場の健康保険に加入したのに、国民健康保険税の納税通知書が届いたのはなぜですか。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/1422534733848.html",
+    "label": "国民健康保険一部負担金の減免について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/disaster-mail-line/",
@@ -410,10 +692,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/1/1547171657913.html",
+    "label": "コミュニティセンターでLINE公式アカウント友達募集中／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/machizukuri/kouza_boshu/1572917473584.html",
+    "label": "コミュニティセンターでLINE公式アカウント友達募集中／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/4/city_promotion/seikatsu_joho/1526619770393.html",
+    "label": "袋井市の最新情報を「マチイロ」アプリで！／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/4/city_promotion/link/1422535838293.html",
+    "label": "リンク集／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/earthquake/",
@@ -472,10 +782,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/10690.html",
+    "label": "家具固定推進事業／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/3/2/bosai/kagukoteisuishinjigyounitsuite/10670.html",
+    "label": "【賃貸住宅を所有する大家さんへ】補助制度を利用して所有する賃貸住宅の家具の固定をしましょう／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/3/2/bosai/kagukoteisuishinjigyounitsuite/10669.html",
+    "label": "【戸建て住宅の方へ】補助制度を利用して家具の固定をしましょう／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1529974788211.html",
+    "label": "緊急！地震対策をお願いします／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/emergency-medical/",
@@ -506,10 +844,20 @@
     "label": "救急（静岡県の救急医療・相談窓口）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/40/shobo/12784.html",
+    "label": "救急安心電話相談窓口（＃7119）／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/evacuation-centers/",
@@ -547,10 +895,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1452147402617.html",
+    "label": "指定緊急避難場所・指定避難所／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/19/1/bosai/1422534378736.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1537502745213.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/map/1555655243948.html",
+    "label": "ため池ハザードマップ／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/evacuation-hazard-map/",
@@ -588,10 +964,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1425447060087.html",
+    "label": "袋井市避難情報の判断・伝達マニュアルを作成／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/1531444393752.html",
+    "label": "袋井市避難情報の判断・伝達マニュアルを作成／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/zisyubo/11739.html",
+    "label": "袋井市避難所運営マニュアルと袋井市避難所運営キット／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/bosaitai/1487826907528.html",
+    "label": "袋井市避難所運営マニュアル／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/fire-ambulance/",
@@ -634,10 +1038,38 @@
     "label": "磐田市消防本部（施設案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/shobo/anzenanshinjohou/1490176152294.html",
+    "label": "住宅用火災警報器の設置及び点検をしましょう！／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/40/shobo/1515237827218.html",
+    "label": "～救える命を救うために～救急車の適正利用をお願いします！！／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/shobo/anzenanshinjohou/1425447007713.html",
+    "label": "PA出動及び救急車の適正利用について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/shobo/kasaiyoboujohou/1556097737445.html",
+    "label": "袋井消防本部管内の火災・救急件数のお知らせ／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/hazard-maps/",
@@ -684,10 +1116,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1452147402617.html",
+    "label": "指定緊急避難場所・指定避難所／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/19/1/bosai/1422534378736.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1537502745213.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/map/1537502745122.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/",
@@ -706,10 +1166,26 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/annzenn/1601009352920.html",
+    "label": "防災サイト集（中学校）／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/annzenn/1592814961640.html",
+    "label": "防災サイト集（小学校）／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/pet-disaster-prevention/",
@@ -755,10 +1231,38 @@
     "label": "人とペットの災害対策ガイドライン"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1452147402617.html",
+    "label": "指定緊急避難場所・指定避難所／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/4/city_promotion/homepage/index.html",
+    "label": "ホームページガイドライン／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/4/city_promotion/homepage/1422535837235.html",
+    "label": "ホームページガイドライン／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/26/4/11882.html",
+    "label": "袋井市立中学校部活動ガイドライン／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/road-river-info/",
@@ -809,10 +1313,38 @@
     "label": "道路情報（工事・通行規制）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/kisho_saigai/1425447057178.html",
+    "label": "海岸監視カメラを公開しています／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/ict_system/index.html",
+    "label": "情報システム係／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/service/1502090586346.html",
+    "label": "袋井市公共施設予約システム／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/service/1489645707781.html",
+    "label": "市民通報システム 「フッピーVoice」／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/emergency/storm-heavy-rain/",
@@ -863,10 +1395,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1452147402617.html",
+    "label": "指定緊急避難場所・指定避難所／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1425447060087.html",
+    "label": "袋井市避難情報の判断・伝達マニュアルを作成／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/1531444393752.html",
+    "label": "袋井市避難情報の判断・伝達マニュアルを作成／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/19/1/bosai/1422534378736.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/after-death-procedures/",
@@ -896,10 +1456,38 @@
     "label": "相続人代表者届"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152450406.html",
+    "label": "死亡届はどこに提出すればよいですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152450269.html",
+    "label": "死亡届出の際、窓口に何をもっていけばよいですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/shibou_koseki/1427860495986.html",
+    "label": "死亡届／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_iryo/1425446970858.html",
+    "label": "すこやかガイドの交付(子どもの健診相談・予防接種説明会)／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/bereavement/",
@@ -925,10 +1513,38 @@
     "label": "戸籍・住民票の届出"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shibou_koseki/index.html",
+    "label": "死亡に関する戸籍・住民票／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/shibou_koseki/index.html",
+    "label": "死亡に関する戸籍・住民票／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shussei_koseki/index.html",
+    "label": "出生に関する戸籍・住民票／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/kekkon_koseki/index.html",
+    "label": "結婚・離婚に関する戸籍・住民票／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/bereavement-procedures/",
@@ -959,10 +1575,38 @@
     "label": "墓地・火葬場"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152450406.html",
+    "label": "死亡届はどこに提出すればよいですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/shibou_koseki/1427860495986.html",
+    "label": "死亡届／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_iryo/1425446970858.html",
+    "label": "すこやかガイドの交付(子どもの健診相談・予防接種説明会)／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/kosodate_iryo/1425446970858.html",
+    "label": "すこやかガイドの交付(子どもの健診相談・予防接種説明会)／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/grave-memorial/",
@@ -990,7 +1634,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -1019,7 +1665,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -1041,7 +1689,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -1070,10 +1720,26 @@
     "label": "空き家"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152450406.html",
+    "label": "死亡届はどこに提出すればよいですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/shibou_koseki/1427860495986.html",
+    "label": "死亡届／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/inherited-house/",
@@ -1100,10 +1766,26 @@
     "label": "粗大ごみの戸別収集"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/gomi/11373.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/11525.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/inherited-vacant-house/",
@@ -1129,10 +1811,32 @@
     "label": "家屋または土地を譲渡した場合の優遇税制"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447020430.html",
+    "label": "土地・家屋を売買したとき、相続したとき／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/tochi/12462.html",
+    "label": "土地・家屋を売買したとき、相続したとき／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/kaoku/12461.html",
+    "label": "土地・家屋を売買したとき、相続したとき／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/pension-inheritance/",
@@ -1154,10 +1858,38 @@
     "label": "国保・後期高齢者医療・年金"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/index.html",
+    "label": "後期高齢者医療保険制度／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/1600418097599.html",
+    "label": "後期高齢者医療制度の医療費のお知らせ（医療費通知）について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/1597625035899.html",
+    "label": "75歳に年齢到達して、後期高齢者医療制度に加入したときの注意事項について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/1597365883283.html",
+    "label": "後期高齢者医療制度で受けられる給付について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/end-of-life/property-tax-inheritance/",
@@ -1179,10 +1911,38 @@
     "label": "固定資産税・都市計画税"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447019908.html",
+    "label": "固定資産税・都市計画税 納税通知書をご覧ください／袋井市",
+    "match_score": 13,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/2/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/index.html",
+    "label": "固定資産税・都市計画税 全般／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-allowance/",
@@ -1211,10 +1971,26 @@
     "label": "こども未来課のご案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/teate/14544.html",
+    "label": "児童手当／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/teate/1425446935855.html",
+    "label": "児童手当の現況届について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-allowance-medical/",
@@ -1252,10 +2028,38 @@
     "label": "子どもの健診・教室"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/teate/14571.html",
+    "label": "子ども医療費助成／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/20/13237.html",
+    "label": "ひとり親家庭等医療費助成／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/ninshin_shien/11143.html",
+    "label": "※不妊治療における生殖補助医療費助成／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/teate/14544.html",
+    "label": "児童手当／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/child-vaccination/",
@@ -1293,10 +2097,38 @@
     "label": "転出・転入された方へ"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11121.html",
+    "label": "定期予防接種予診票の再発行が電子申請できます。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11103.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/1425446970048.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/10652.html",
+    "label": "定期予防接種予診票の再発行が電子申請できます。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/childbirth/",
@@ -1338,10 +2170,38 @@
     "label": "子育てに関する手当・助成（一覧）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/1422534800955.html",
+    "label": "出産育児一時金／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/8433.html",
+    "label": "出産育児一時金／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/1425446970113.html",
+    "label": "乳幼児・児童・生徒の定期予防接種／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/12335.html",
+    "label": "国保出産育児一時金がオンライン申請できます！／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/developmental-support/",
@@ -1380,10 +2240,38 @@
     "label": "こども相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/hagukumi/index.html",
+    "label": "子ども早期療育支援センター／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/hagukumi/1429591875814.html",
+    "label": "子ども早期療育支援センター「はぐくみ」へご相談ください／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_sodan/1429660330206.html",
+    "label": "子ども早期療育支援センター「はぐくみ」へご相談ください／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_shisetsu/1429660330254.html",
+    "label": "子ども早期療育支援センター「はぐくみ」へご相談ください／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/",
@@ -1402,10 +2290,32 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/ninshin_shien/8799.html",
+    "label": "妊娠・出産、子育てに関する相談／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_sodan/8797.html",
+    "label": "妊娠・出産、子育てに関する相談／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_shisetsu/8798.html",
+    "label": "妊娠・出産、子育てに関する相談／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/infant-health-check/",
@@ -1435,10 +2345,38 @@
     "label": "子どもの予防接種"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/oyakokenkoukakari/kosodate_iryo/10598.html",
+    "label": "袋井市乳幼児健診・相談予約システム／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/1425446970113.html",
+    "label": "乳幼児・児童・生徒の定期予防接種／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/index.html",
+    "label": "予防接種／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11122.html",
+    "label": "県外や近隣市町以外で予防接種をする場合の電子申請ができます／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/marriage/",
@@ -1468,10 +2406,38 @@
     "label": "結婚新生活支援事業補助金"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152448298.html",
+    "label": "住民票・印鑑証明・戸籍謄本（抄本）には、有効期限がありますか／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/kekkon_koseki/index.html",
+    "label": "結婚・離婚に関する戸籍・住民票／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152451053.html",
+    "label": "転籍届出時には窓口に何をもっていけばよいですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152448037.html",
+    "label": "婚姻届に証人は必要ですか。／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/nursery-childcare/",
@@ -1497,10 +2463,38 @@
     "label": "一時的な子どもの預け先"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/mokutekibetu/index.html",
+    "label": "保育園・幼稚園・こども園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/index.html",
+    "label": "保育園・幼稚園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/faq/kosodate_kyoiku/hoikuen_yochien/index.html",
+    "label": "保育園・幼稚園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/zenpan/index.html",
+    "label": "保育園・幼稚園全般／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/nursery-school/",
@@ -1528,10 +2522,38 @@
     "label": "幼児教育・保育無償化"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/zenpan/1565150366723.html",
+    "label": "幼児教育・保育の無償化(施設等)について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/zenpan/1565151439407.html",
+    "label": "幼児教育・保育の無償化(施設等)について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/yochien/1569815060390.html",
+    "label": "幼児教育・保育の無償化(施設等)について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/hoikuen/1569815060288.html",
+    "label": "幼児教育・保育の無償化(施設等)について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/parenting-support/",
@@ -1557,10 +2579,32 @@
     "label": "いわた子育てアプリ"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kodomowakamonokateicenter/index.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kodomowakamonokateicenter/13305.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_sodan/13799.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/pregnancy/",
@@ -1598,10 +2642,38 @@
     "label": "妊娠・出産に関する支援（一覧）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/oyakokenkoukakari/ninshin_shien/10654.html",
+    "label": "母子健康手帳窓口予約、妊娠届の電子申請について／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/oyakokenkoukakari/ninshin_shien/12370.html",
+    "label": "低所得世帯の妊婦さんに対する初回産科受診料助成／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/ninshin_shien/8800.html",
+    "label": "母子健康手帳交付および妊娠に関わる支援について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/ninshin_shien/12372.html",
+    "label": "低所得世帯の妊婦さんに対する初回産科受診料助成／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/family-grow/single-parent-support/",
@@ -1632,10 +2704,38 @@
     "label": "ひとり親家庭養育費確保支援助成金"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/20/13237.html",
+    "label": "ひとり親家庭等医療費助成／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/boshikatei/1425446935023.html",
+    "label": "※ひとり親家庭等医療費助成／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/20/13240.html",
+    "label": "児童扶養手当／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/boshikatei/1425446934644.html",
+    "label": "※児童扶養手当／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/adult-vaccination/",
@@ -1665,10 +2765,38 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11103.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/1425446970048.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/1597625035899.html",
+    "label": "75歳に年齢到達して、後期高齢者医療制度に加入したときの注意事項について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/1422534800807.html",
+    "label": "令和8年度後期高齢者の健康診査の実施について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/cancer-specific-checkups/",
@@ -1697,10 +2825,26 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kenko/kenkou_soudan/1573101435198.html",
+    "label": "がん患者医療用補整具購入支援事業／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/byoki/9372.html",
+    "label": "がん患者医療用補整具購入支援事業／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/dental-care/",
@@ -1730,10 +2874,32 @@
     "label": "健康・福祉・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/index.html",
+    "label": "健康・医療・福祉／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/index.html",
+    "label": "健康・医療・福祉／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/faq/kenko_iryo_fukushi/index.html",
+    "label": "健康・医療・福祉のご質問／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/disability-services/",
@@ -1763,10 +2929,38 @@
     "label": "障がい児に関する通所サービス・助成"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/1449184981245.html",
+    "label": "第4期障害福祉計画／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/1425446940353.html",
+    "label": "第2期障害福祉計画を策定／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/1425446940288.html",
+    "label": "第1次障害者計画・第1期障害福祉計画を策定／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/1425446937324.html",
+    "label": "第3期障害福祉計画を策定／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/disability-welfare/",
@@ -1796,10 +2990,38 @@
     "label": "障がい者の自立支援"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/3/shogaitecho/index.html",
+    "label": "身体障害者手帳・療育手帳・精神障害者保健福祉手帳／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/3/shogai_sodan/index.html",
+    "label": "障害者（児）福祉に関する相談／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/3/shogai_jigyo/index.html",
+    "label": "障害者（児）福祉に関する事業／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/sodan/shogai_sodan/index.html",
+    "label": "障害者(児)福祉に関する相談／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/find-hospitals/",
@@ -1825,10 +3047,38 @@
     "label": "医療情報ネット"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/1596611315527.html",
+    "label": "医療機関などに受診するときは、受診時に加入中の健康保険をあらかじめ確認してください／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/13948.html",
+    "label": "救急医療情報キット／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/8440.html",
+    "label": "医療機関などに受診するときは、受診時に加入中の健康保険をあらかじめ確認してください／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kenko/kokoronokenko/12172.html",
+    "label": "こころの相談窓口・医療機関／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/health-checkups/",
@@ -1858,10 +3108,38 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/1422534807148.html",
+    "label": "令和8年度袋井市国民健康保険特定健康診査（特定健診）の実施について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11103.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/8442.html",
+    "label": "令和8年度袋井市国民健康保険特定健康診査（特定健診）の実施について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/kokuho_nenkin/kokuminkenkouhoken/12355.html",
+    "label": "国民健康保険保健事業実施計画（データヘルス計画）第3期計画・国民健康保険特定健康診査等実施計画第4期計画／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/health-promotion/",
@@ -1890,10 +3168,38 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/100/oyakokenkoukakari/kosodate_iryo/10972.html",
+    "label": "おやこ保健室／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_joho/12132.html",
+    "label": "おやこ保健室／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kenko/kenkozukuri/12140.html",
+    "label": "ふくろい健康保健室／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kenko/kenkou_soudan/12139.html",
+    "label": "ふくろい健康保健室／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/holiday-night-emergency-care/",
@@ -1919,10 +3225,38 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/kyujitsukyukyu/11445.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kyujitsukyukyu/11444.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/kyujitsukyukyu/11441.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/kyujitsukyukyu/index.html",
+    "label": "休日夜間救急／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/",
@@ -1942,7 +3276,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -1974,10 +3310,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/iken/13842.html",
+    "label": "総合健康センター基本構想〔保健・介護・福祉・子育て機能〕（案）に対するパブリックコメント【意見聴取】／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/14177.html",
+    "label": "総合健康センター基本構想〔保健・介護・福祉・子育て機能〕を策定しました／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/dantaijoho/yoyakusisutemudounyuu/index.html",
+    "label": "市内運動施設予約方法／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/keikaku_hokoku/kenko_iryo/index.html",
+    "label": "健康・医療・福祉／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/night-holiday-medical/",
@@ -2003,10 +3367,38 @@
     "label": "健康・医療"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/kyujitsukyukyu/11445.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kyujitsukyukyu/11444.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/kyujitsukyukyu/11441.html",
+    "label": "袋井市休日急患診療室・一次救急診療体制について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/kyujitsukyukyu/10841.html",
+    "label": "夜間・休日の救急医療体制と当番医／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/health-medical/vaccinations/",
@@ -2035,10 +3427,38 @@
     "label": "おとなの健診・予防接種・相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/index.html",
+    "label": "予防接種／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11122.html",
+    "label": "県外や近隣市町以外で予防接種をする場合の電子申請ができます／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11112.html",
+    "label": "特別な理由により予防接種を再接種する際の費用を助成します／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11103.html",
+    "label": "予防接種の指定医療機関／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/build-house/",
@@ -2068,10 +3488,38 @@
     "label": "耐震"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/1/chiku/9345.html",
+    "label": "コミュニティ施設整備事業費補助金／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/14/3/chushokigyo/13971.html",
+    "label": "袋井市中小企業等奨学金返還支援事業費補助金について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/1425446946597.html",
+    "label": "合併処理浄化槽設置事業費補助金制度／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/tokusan/josei/11268.html",
+    "label": "袋井市特産品開発事業費補助金／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/buy-house/",
@@ -2101,10 +3549,38 @@
     "label": "耐震"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/1/chiku/9345.html",
+    "label": "コミュニティ施設整備事業費補助金／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/14/3/chushokigyo/13971.html",
+    "label": "袋井市中小企業等奨学金返還支援事業費補助金について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/1425446946597.html",
+    "label": "合併処理浄化槽設置事業費補助金制度／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/tokusan/josei/11268.html",
+    "label": "袋井市特産品開発事業費補助金／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/clean-parents-house/",
@@ -2134,10 +3610,38 @@
     "label": "住宅"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/panfu/9114.html",
+    "label": "久野城ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/80/index.html",
+    "label": "子育てガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/event/1485848779501.html",
+    "label": "中遠オープンガーデンガイドブックの配布・オープンガーデン見学会について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9058.html",
+    "label": "マイナンバーカードご利用ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/earthquake-demolition/",
@@ -2168,7 +3672,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -2190,7 +3696,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -2222,10 +3730,32 @@
     "label": "悩み・相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/jutaku/shieijutaku/1490951102524.html",
+    "label": "市営住宅の入居募集や各種お問い合わせ先について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/jutaku/shieijutaku/index.html",
+    "label": "市営住宅／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/jutaku/shieijutaku/1425446975495.html",
+    "label": "袋井市営住宅について／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/property-tax/",
@@ -2254,10 +3784,38 @@
     "label": "納税通知書等の送付先変更"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447019908.html",
+    "label": "固定資産税・都市計画税 納税通知書をご覧ください／袋井市",
+    "match_score": 14,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/2/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/index.html",
+    "label": "固定資産税・都市計画税 全般／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/public-housing-consultation/",
@@ -2286,10 +3844,38 @@
     "label": "悩み相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/seikatsu_fukushi/seikatsufukushi/index.html",
+    "label": "生活福祉／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/chiiki_sikatsu/seikatsufukushi/index.html",
+    "label": "生活福祉／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/chiiki_sikatsu/index.html",
+    "label": "地域福祉・生活福祉／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/seikatsu_fukushi/seikatsufukushi/1422533255919.html",
+    "label": "生活福祉資金貸付制度／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/rent-house/",
@@ -2315,10 +3901,26 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kinkyu_news/index.html",
+    "label": "指定カテゴリ(緊急災害用)／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/shogyo_shohiseikatsu/koyo/1487029660179.html",
+    "label": "事業者のための労務管理・安全衛生管理診断サイト「スタートアップ労働条件」のご案内／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/sell-house/",
@@ -2350,10 +3952,38 @@
     "label": "住宅カテゴリ"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/2/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/index.html",
+    "label": "固定資産税・都市計画税 全般／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447019908.html",
+    "label": "固定資産税・都市計画税 納税通知書をご覧ください／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/housing/vacant-house/",
@@ -2383,10 +4013,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/2/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/index.html",
+    "label": "固定資産税・都市計画税 全般／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447019908.html",
+    "label": "固定資産税・都市計画税 納税通知書をご覧ください／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/about-iwata/",
@@ -2416,7 +4074,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -2451,10 +4111,38 @@
     "label": "運転免許自主返納者等サポート事業"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1473923492503.html",
+    "label": "デマンドタクシー（予約型乗合タクシー）／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/bus/1568184667471.html",
+    "label": "デマンドタクシー（予約型乗合タクシー）／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_service/13893.html",
+    "label": "在宅福祉サービス（高齢者）／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/josei/f_ribiyou_service.html",
+    "label": "高齢者等訪問理美容サービスの助成／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/disaster-risk/",
@@ -2496,10 +4184,38 @@
     "label": "防災（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1452147402617.html",
+    "label": "指定緊急避難場所・指定避難所／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/19/1/bosai/1422534378736.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1537502745213.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/map/1537502745122.html",
+    "label": "袋井市浸水ハザードマップ／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/",
@@ -2518,7 +4234,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -2553,10 +4271,38 @@
     "label": "住民異動届の事前申請"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/10448.html",
+    "label": "オンラインによる転出届・転入（転居）予約サービス／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shussei_koseki/index.html",
+    "label": "出生に関する戸籍・住民票／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shibou_koseki/index.html",
+    "label": "死亡に関する戸籍・住民票／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/kekkon_koseki/index.html",
+    "label": "結婚・離婚に関する戸籍・住民票／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/school-districts/",
@@ -2590,10 +4336,38 @@
     "label": "磐田市立小中学校通学区域規則"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/26/2/gakko/1422533463750.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_tetuzuki/14468.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/tsugaku/1425446948946.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/gakko/syoukai/11964.html",
+    "label": "小中学校通学区域一覧／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/transportation/",
@@ -2631,10 +4405,38 @@
     "label": "磐田市地域公共交通計画"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1605076422206.html",
+    "label": "袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13980.html",
+    "label": "第2次袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/bus/1617081405910.html",
+    "label": "袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1441698167901.html",
+    "label": "袋井市地域公共交通会議／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/living-soon/want-to-live/",
@@ -2664,10 +4466,38 @@
     "label": "移住・定住支援情報一覧"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/14/3/chushokigyo/13971.html",
+    "label": "袋井市中小企業等奨学金返還支援事業費補助金について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/shogyo_shohiseikatsu/1557203146734.html",
+    "label": "静岡県マッチング支援事業 移住・就業支援金対象法人登録申請／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/16/2/shinene/1489643566622.html",
+    "label": "ゼロカーボンシティふくろい推進事業補助金／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/16/2/shinene/1422533584399.html",
+    "label": "【申請様式】【補助金交付状況】ゼロカーボンシティふくろい推進事業補助金／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/bulk-garbage-cleaning/",
@@ -2693,10 +4523,26 @@
     "label": "ごみの持ち込み・リユース"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/gomi/11373.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/11525.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/dog-ownership-change/",
@@ -2721,10 +4567,20 @@
     "label": "ペット"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/13001.html",
+    "label": "飼い犬に狂犬病予防注射を受けさせましょう／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/",
@@ -2743,7 +4599,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -2770,10 +4628,38 @@
     "label": "窓口業務案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/1607633554486.html",
+    "label": "住民票などの証明書をオンラインで請求できます／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534788638.html",
+    "label": "転出届／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/10448.html",
+    "label": "オンラインによる転出届・転入（転居）予約サービス／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shussei_koseki/index.html",
+    "label": "出生に関する戸籍・住民票／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/moving-away/",
@@ -2799,10 +4685,38 @@
     "label": "粗大ごみの戸別収集"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/gomi/11373.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/11525.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/index.html",
+    "label": "上下水道／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534788638.html",
+    "label": "転出届／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/school-nursery-procedures/",
@@ -2828,10 +4742,38 @@
     "label": "公立保育園・幼稚園・こども園一覧"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/mokutekibetu/index.html",
+    "label": "保育園・幼稚園・こども園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/index.html",
+    "label": "保育園・幼稚園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/faq/kosodate_kyoiku/hoikuen_yochien/index.html",
+    "label": "保育園・幼稚園／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/zenpan/index.html",
+    "label": "保育園・幼稚園全般／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/moving-out/stop-water/",
@@ -2857,10 +4799,38 @@
     "label": "上下水道料金など"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9672.html",
+    "label": "水道料金・下水道使用料の納付方法について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/37/1/internet/index.html",
+    "label": "インターネット公有財産売却【袋井市森町広域行政組合】／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9677.html",
+    "label": "水道料金・下水道使用料等の改定／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/13491.html",
+    "label": "水道料金及び下水道使用料等に関する住民説明会について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/parents-care/adult-guardianship/",
@@ -2894,10 +4864,38 @@
     "label": "静岡家庭裁判所 浜松支部の所在地"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/2/36/1422533219911.html",
+    "label": "成年後見制度による審判の請求手続（市長申立て・費用助成）"
+   },
+   {
+    "url": "https://www.fukuroi-shakyo.or.jp/pages/83/",
+    "label": "袋井市成年後見支援センター（社会福祉協議会）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   },
+   {
+    "url": "https://www.courts.go.jp/saiban/koukenp/index.html",
+    "label": "成年後見制度の手続き案内（裁判所）※磐田から流用"
+   },
+   {
+    "url": "https://www.courts.go.jp/shizuoka/about/syozai/hamamatsu/index.html",
+    "label": "静岡家庭裁判所 浜松支部 ※袋井市も浜松支部管轄・磐田から流用"
+   }
+  ],
+  "facts": {
+   "window": "袋井市成年後見支援センター（社協）",
+   "tel": "0538-42-7914",
+   "hours": "毎月第2・第4水曜 13:30〜16:30（相談所）",
+   "note": "家裁は静岡家裁浜松支部（浜松市中央区中央1-12-5／053-453-7168）。任意後見は袋井公証役場（高尾1129-1 キラット3階／0538-42-8412）。低所得者向け費用・報酬助成あり（在宅月額28,000円・施設18,000円限度）（確認中: 本文未確認 053-453-7168）（確認中: 本文未確認 0538-42-8412）（確認中: 本文未確認 28,000円）（確認中: 本文未確認 18,000円）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "市ページの所管課名は要確認（しあわせ推進課系の可能性）。センターの開設日・時間は社協ページで検証必須。"
  },
  {
   "href": "/life/parents-care/care-certification-support-center/",
@@ -2930,10 +4928,31 @@
     "label": "高齢者支援課のご案内"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
+    "label": "介護保険申請から利用まで（要介護認定）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
+    "label": "介護に関する相談（一覧）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   }
+  ],
+  "facts": {
+   "window": "保険課介護保険係（申請受付）／健康長寿課地域包括ケア推進係（総合健康センター）",
+   "tel": "保険課介護保険係 0538-44-3152／介護認定係 0538-44-3147／地域包括ケア推進係 0538-84-7534（確認中: 本文未確認 0538-44-3152）（確認中: 本文未確認 0538-44-3147）（確認中: 本文未確認 0538-84-7534）",
+   "note": "申請から認定通知まで1か月程度。65歳以上は介護保険被保険者証（ピンク）持参。申請書は市サイトからDL可",
+   "line_shinchoku": "非該当見込み（磐田固有のLINE進捗確認・袋井相当サービス未発見のため確認中）",
+   "shougaisha_koujo": "確認中（障害者控除認定の袋井版ページ）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "磐田のLINE進捗確認に相当する袋井サービスは未確認（おそらく非該当）。障害者控除認定の袋井版ページも未調査＝要追加調査。"
  },
  {
   "href": "/life/parents-care/care-started/",
@@ -2966,10 +4985,33 @@
     "label": "介護保険のよくある質問"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
+    "label": "介護保険申請から利用まで（要介護認定）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
+    "label": "総合相談窓口（はーとふるプラザ袋井）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
+    "label": "介護に関する相談（一覧）"
+   }
+  ],
+  "facts": {
+   "window": "まずはお住まいの地区の地域包括支援センター（市内4か所）",
+   "tel": "不明時は健康長寿課地域包括ケア推進係 0538-84-7836",
+   "hours": "包括は平日8:30〜17:30（時間外は転送電話対応）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "ケアプラン作成の単独ページは未発見（申請から利用までのページに統合されている）。"
  },
  {
   "href": "/life/parents-care/check-parents/",
@@ -3003,10 +5045,39 @@
     "label": "高齢者に関する支援（一覧）"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
+    "label": "総合相談窓口（はーとふるプラザ袋井）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/josei/1422533213597.html",
+    "label": "緊急通報システム機器の貸与"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/ninchisyou/1422533219268.html",
+    "label": "はいかいSOSネットワーク事業（あんしん見守りシール・個人賠償保険含む）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_service/index.html",
+    "label": "高齢者に関するサービス（一覧）"
+   }
+  ],
+  "facts": {
+   "window": "総合相談窓口（はーとふるプラザ袋井1階・久能2515-1）",
+   "tel": "0538-84-7836（はよ なやみむ）",
+   "hours": "8:30〜17:15（土日祝・年末年始除く）",
+   "note": "緊急通報システムは機器レンタル料・設置料を市負担（通話料のみ自己負担）。申請は健康長寿課または浅羽支所市民サービス課でも可",
+   "haishoku": "確認中（配食サービス・安否確認兼用の袋井版ページ）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "磐田の見守りネットワークに相当するのは「はいかいSOSネットワーク」＋民間協力事業所。配食サービス（安否確認兼用）の袋井版ページは要追加調査。"
  },
  {
   "href": "/life/parents-care/community-support-center/",
@@ -3027,10 +5098,54 @@
     "label": "高齢者に関する支援"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_service/index.html",
+    "label": "高齢者に関するサービス（一覧）"
+   }
+  ],
+  "facts": {
+   "window": "北部／中部／南部／浅羽の4センター体制",
+   "centers": [
+    {
+     "name": "北部",
+     "tel": "0538-48-5335",
+     "addr": "宇刈850-1 明和苑内",
+     "hours": "平日8:30〜17:30",
+     "area": "今井・三川・上山梨・下山梨・宇刈"
+    },
+    {
+     "name": "中部",
+     "tel": "0538-43-0326",
+     "addr": "久能2891 可睡門前デイサービスセンター内",
+     "hours": "平日・祝日8:30〜17:30",
+     "area": "袋井・川井・袋井西・方丈・袋井北・袋井北四町・袋井東一・袋井東二(村松)"
+    },
+    {
+     "name": "南部",
+     "tel": "0538-42-7939",
+     "addr": "高尾783-4 袋井南コミュニティセンター南側",
+     "hours": "平日8:30〜17:15",
+     "area": "駅前・高尾・高南・豊沢・愛野・田原"
+    },
+    {
+     "name": "浅羽",
+     "tel": "0538-23-0780",
+     "addr": "浅羽4140 浅羽デイサービスセンター内",
+     "hours": "平日・土曜・祝日8:15〜17:15",
+     "area": "笠原・浅羽北・浅羽西・浅羽東・浅羽南"
+    }
+   ],
+   "note": "所管:健康長寿課地域包括ケア推進係 0538-84-7836。時間外は転送電話対応。相談時間がセンターごとに異なる点に注意"
+  },
+  "status": "machine-verified",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "公式ページ本文(更新日2026-03-27)と全数突合済み。4センターの電話・住所・時間・担当地区を機械抽出。"
  },
  {
   "href": "/life/parents-care/dementia-consultation/",
@@ -3072,10 +5187,35 @@
     "label": "高齢者等見守りネットワーク事業"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/ninchisyou/index.html",
+    "label": "認知症に関する相談・支援（総合案内）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター（市内4か所・担当地区・電話）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/ninchisyou/1422533219268.html",
+    "label": "はいかいSOSネットワーク事業（あんしん見守りシール・個人賠償保険含む）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/sougousoudanmadoguchi.html",
+    "label": "総合相談窓口（はーとふるプラザ袋井）"
+   }
+  ],
+  "facts": {
+   "window": "地区の地域包括支援センター／総合相談窓口",
+   "tel": "健康長寿課地域包括ケア推進係 0538-84-7836",
+   "note": "はいかいSOSネットワーク＝事前登録制（磐田の見守りオレンジシールに相当する「あんしん見守りシール」あり）。認知症高齢者等個人賠償責任保険あり（市税・介護保険料滞納なし等の要件）",
+   "care_path": "確認中（袋井版認知症ケアパスのURL）",
+   "ninchisho_cafe": "確認中"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "袋井版認知症ケアパス（ハンドブック）のURLは未取得＝認知症総合ページ内で人力確認。認知症カフェの袋井版ページも要追加調査。"
  },
  {
   "href": "/life/parents-care/elderly-transportation/",
@@ -3109,10 +5249,30 @@
     "label": "交通（バス・タクシー）案内"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1473923492503.html",
+    "label": "デマンドタクシー（予約型乗合タクシー）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/bus/index.html",
+    "label": "公共交通・バス（総合案内）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_service/index.html",
+    "label": "高齢者に関するサービス（一覧）"
+   }
+  ],
+  "facts": {
+   "window": "協働まちづくり課交通政策係",
+   "tel": "0538-44-3125（利用者登録）／予約は遠鉄タクシー 0538-32-7228",
+   "note": "自主運行バス＝南部循環線メローバス・北部循環線フーちゃん号（一律100円）、デマンドタクシー＝停留所型200円・ドアツードア型400円（乗合300円）、平日のみ運行。事前の利用者登録と予約が必要（確認中: 本文未確認 200円）",
+   "taxi_josei": "確認中（磐田の高齢者タクシー料金助成に相当する袋井の制度は市公式で未発見）"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "磐田の「高齢者タクシー料金助成」に相当する袋井の助成制度の有無は未確認＝人力確認必須（存在しない場合は本文構成を磐田と変える）。運賃はWikipedia由来のため市公式チラシで検証必須。"
  },
  {
   "href": "/life/parents-care/find-nursing-home/",
@@ -3158,10 +5318,32 @@
     "label": "介護サービス情報公表システム（静岡県）"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/shisetsu/index.html",
+    "label": "高齢者施設（市の案内）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/5/2/1422533164736.html",
+    "label": "介護サービス事業所一覧"
+   },
+   {
+    "url": "https://www.kaigokensaku.mhlw.go.jp/22/",
+    "label": "介護サービス情報公表システム（静岡県）※磐田から流用"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
+    "label": "介護保険申請から利用まで（要介護認定）"
+   }
+  ],
+  "facts": {
+   "window": "施設の種類の相談は地域包括支援センター／事業所一覧は保険課",
+   "tel": "保険課介護認定係 0538-44-3147"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "磐田のような施設種類別ページ（特養・老健・サ高住・GH個別）は袋井には無い可能性が高く、「高齢者施設」「事業所一覧」ページの実際の中身を人力確認して本文構成を決める。"
  },
  {
   "href": "/life/parents-care/",
@@ -3179,10 +5361,17 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/",
+    "label": "袋井市公式サイトを確認する"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "ハブページ。公式トップのみ。"
  },
  {
   "href": "/life/parents-care/long-term-care-insurance/",
@@ -3224,10 +5413,32 @@
     "label": "高額介護サービス費"
    }
   ],
-  "sources_fukuroi": [],
-  "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
+    "label": "介護保険申請から利用まで（要介護認定）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/index.html",
+    "label": "介護に関する相談（一覧）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/4/kaigohoken/1422533173751.html",
+    "label": "（同上：要支援=包括へ・要介護=ケアマネへの流れ含む）"
+   }
+  ],
+  "facts": {
+   "window": "保険課介護保険係",
+   "tel": "0538-44-3152（確認中: 本文未確認 0538-44-3152）",
+   "note": "申請→訪問調査＋主治医意見書→介護認定審査会→約1か月で通知→要支援は地域包括支援センター・要介護はケアマネにケアプラン依頼",
+   "hokenryou": "確認中",
+   "futan_gendogaku": "確認中",
+   "kougaku_kaigo": "確認中"
+  },
+  "status": "ai-checked",
+  "verified_date": null,
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "介護保険料・負担限度額認定・高額介護サービス費の袋井版個別ページは未調査＝要追加調査（3本）。"
  },
  {
   "href": "/life/play-out/cultural-facilities/",
@@ -3258,10 +5469,38 @@
     "label": "観光"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/6/1/bunka_shisetsu/index.html",
+    "label": "文化施設／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/bunka/bunka_shisetsu/index.html",
+    "label": "文化施設／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/toshokan/index.html",
+    "label": "図書館／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/index.html",
+    "label": "観光・文化・スポーツ／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/facilities-library-parks/",
@@ -3290,10 +5529,38 @@
     "label": "地図から探す"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/45/shisetsu/1422535405037.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/aed/10808.html",
+    "label": "AEDの貸出が可能な市内の公共施設をご案内します／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/toshokan/1425447024526.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syougaigakusyu/sisetu/14538.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/find-parks/",
@@ -3323,7 +5590,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -3345,7 +5614,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -3377,7 +5648,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -3408,10 +5681,38 @@
     "label": "公園"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/index.html",
+    "label": "公共交通・バス／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/bus/index.html",
+    "label": "公共交通・バス／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/12827.html",
+    "label": "うみてらすDORI『海辺の駐車場』『展望デッキ』がオープンしました！／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/service/1502090586346.html",
+    "label": "袋井市公共施設予約システム／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/rent-public-facilities/",
@@ -3441,10 +5742,38 @@
     "label": "図書館・文化関連施設"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/service/1502090586346.html",
+    "label": "袋井市公共施設予約システム／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/dantaijoho/yoyakusisutemudounyuu/index.html",
+    "label": "市内運動施設予約方法／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/1537324077245.html",
+    "label": "袋井市公共施設予約システム／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/johoka/ictmachi/1537324077245.html",
+    "label": "袋井市公共施設予約システム／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/sports-facilities/",
@@ -3475,10 +5804,38 @@
     "label": "地図から探す"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/dantaijoho/sports_shisetsu/index.html",
+    "label": "スポーツ施設／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/dantaijoho/event/index.html",
+    "label": "各種イベント・ニュースポーツ用具貸出し／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/1/sports_shisetsu/index.html",
+    "label": "スポーツ施設／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/sports_shisetsu/index.html",
+    "label": "スポーツ施設／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/swimming-pools/",
@@ -3507,10 +5864,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/11/dantaijoho/event/index.html",
+    "label": "各種イベント・ニュースポーツ用具貸出し／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/suportsshinko/suishinnshitsu/event/index.html",
+    "label": "各種イベント・ニュースポーツ用具貸出し／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/1/event/index.html",
+    "label": "イベント・催し／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/event/index.html",
+    "label": "イベント・催し／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/play-out/visit-library/",
@@ -3539,10 +5924,38 @@
     "label": "地図から探す"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/45/shisetsu/1422535405037.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/toshokan/1425447024526.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syougaigakusyu/sisetu/14538.html",
+    "label": "市立図書館／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/26/4/11882.html",
+    "label": "袋井市立中学校部活動ガイドライン／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/bulky-garbage-dropoff/",
@@ -3576,10 +5989,38 @@
     "label": "施設ガイド 磐田市クリーンセンター"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/29/tyuuen/12386.html",
+    "label": "中遠クリーンセンターの施設見学について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/gomi/11373.html",
+    "label": "粗大ごみ等の戸別収集について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/9068.html",
+    "label": "中遠クリーンセンター年度ごと搬入量／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/29/tyuuen/index.html",
+    "label": "中遠クリーンセンター／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/certificates/",
@@ -3627,10 +6068,38 @@
     "label": "郵便請求制度"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shomei/1484275745812.html",
+    "label": "証明書コンビニ交付サービスについて／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shomei/1431758910045.html",
+    "label": "証明書コンビニ交付サービスの臨時休止のお知らせ／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/faq/1427152448298.html",
+    "label": "住民票・印鑑証明・戸籍謄本（抄本）には、有効期限がありますか／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/shomei/10711.html",
+    "label": "証明書コンビニ交付サービスについて／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/city-hall-branches/",
@@ -3661,10 +6130,38 @@
     "label": "リアルタイム窓口混雑情報"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/4/city_promotion/gaiyo/1422537523344.html",
+    "label": "市役所の組織と業務（令和8年度版）／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/gaiyo/1425447055565.html",
+    "label": "市役所の組織と業務（令和8年度版）／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/9611.html",
+    "label": "市役所の組織と業務（令和8年度版）／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/9612.html",
+    "label": "市役所の組織と業務（令和8年度版）／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/dog-registration/",
@@ -3698,10 +6195,20 @@
     "label": "環境課のご案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/13001.html",
+    "label": "飼い犬に狂犬病予防注射を受けさせましょう／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/dog-registration-rabies/",
@@ -3734,10 +6241,38 @@
     "label": "ペットの手続き一覧"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/13001.html",
+    "label": "飼い犬に狂犬病予防注射を受けさせましょう／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11122.html",
+    "label": "県外や近隣市町以外で予防接種をする場合の電子申請ができます／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/9/vaccine/yobo/11121.html",
+    "label": "定期予防接種予診票の再発行が電子申請できます。／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/iryo/yobo/10652.html",
+    "label": "定期予防接種予診票の再発行が電子申請できます。／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/garbage-sorting-calendar/",
@@ -3776,10 +6311,38 @@
     "label": "カレンダー・ガイドブックの入手方法（よくある質問）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/recycle/13083.html",
+    "label": "【令和7年4月1日開始】リサイクルすることができるプラスチック類が拡大されました！／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/80/index.html",
+    "label": "子育てガイドブック／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/panfu/9114.html",
+    "label": "久野城ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/event/1485848779501.html",
+    "label": "中遠オープンガーデンガイドブックの配布・オープンガーデン見学会について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/how-to-garbage/",
@@ -3816,10 +6379,38 @@
     "label": "粗大ごみの戸別収集"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/panfu/9114.html",
+    "label": "久野城ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/80/index.html",
+    "label": "子育てガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/event/1485848779501.html",
+    "label": "中遠オープンガーデンガイドブックの配布・オープンガーデン見学会について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9058.html",
+    "label": "マイナンバーカードご利用ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/",
@@ -3838,7 +6429,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -3878,10 +6471,38 @@
     "label": "飼い犬の登録・狂犬病予防注射"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/13001.html",
+    "label": "飼い犬に狂犬病予防注射を受けさせましょう／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/index.html",
+    "label": "マイナンバー利用推進係／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9980.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9272.html",
+    "label": "もっと便利に！マイナンバーカード／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/moving-address-change/",
@@ -3919,10 +6540,38 @@
     "label": "上下水道の手続き"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/10229.html",
+    "label": "マイナンバーカードの住所変更・氏名変更の手続き／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_2/10230.html",
+    "label": "マイナンバーカードの住所変更・氏名変更の手続き／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9980.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_2/10200.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/mynumber/",
@@ -3960,10 +6609,38 @@
     "label": "電子証明書の更新"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9980.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_2/10200.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/1589862239347.html",
+    "label": "マイナンバーの「通知カード」廃止について／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_3/10187.html",
+    "label": "マイナンバーの「通知カード」廃止について／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/pets-lost-animals/",
@@ -4006,10 +6683,26 @@
     "label": "よくある質問（住宅・ペット）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/13001.html",
+    "label": "飼い犬に狂犬病予防注射を受けさせましょう／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/pet/1463639356799.html",
+    "label": "野良猫の去勢・不妊手術費補助制度／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/public-transit/",
@@ -4048,10 +6741,38 @@
     "label": "磐田市地域公共交通計画"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1605076422206.html",
+    "label": "袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13980.html",
+    "label": "第2次袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/bus/1617081405910.html",
+    "label": "袋井市地域公共交通計画／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1441698167901.html",
+    "label": "袋井市地域公共交通会議／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/resident-registration/",
@@ -4088,10 +6809,38 @@
     "label": "戸籍の附票"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shomei/1484275745812.html",
+    "label": "証明書コンビニ交付サービスについて／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shomei/1431758910045.html",
+    "label": "証明書コンビニ交付サービスの臨時休止のお知らせ／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/shomei/10711.html",
+    "label": "証明書コンビニ交付サービスについて／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/shomei/1484275954637.html",
+    "label": "証明書コンビニ交付サービスについて／袋井市",
+    "match_score": 11,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/water-sewer/",
@@ -4137,10 +6886,38 @@
     "label": "上下水道に関する届け出"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9672.html",
+    "label": "水道料金・下水道使用料の納付方法について／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/13991.html",
+    "label": "合併処理浄化槽維持管理費補助金制度／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/13990.html",
+    "label": "＜はじめて申請する方のみ＞合併処理浄化槽維持管理費補助金 電子申請／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9677.html",
+    "label": "水道料金・下水道使用料等の改定／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/start-living/water-start-stop-fees/",
@@ -4190,10 +6967,38 @@
     "label": "上下水道（総合案内）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9672.html",
+    "label": "水道料金・下水道使用料の納付方法について／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9677.html",
+    "label": "水道料金・下水道使用料等の改定／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/13491.html",
+    "label": "水道料金及び下水道使用料等に関する住民説明会について／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/gesuido/1425446946871.html",
+    "label": "下水道使用料／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/animal-pet-consultation/",
@@ -4231,10 +7036,38 @@
     "label": "譲渡動物情報"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/pet_gaichu/pet/1463639356799.html",
+    "label": "野良猫の去勢・不妊手術費補助制度／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/1425446946597.html",
+    "label": "合併処理浄化槽設置事業費補助金制度／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/gesuido/jokaso/13991.html",
+    "label": "合併処理浄化槽維持管理費補助金制度／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/1/chiku/9345.html",
+    "label": "コミュニティ施設整備事業費補助金／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/cannot-pay-tax/",
@@ -4272,10 +7105,38 @@
     "label": "収納課のご案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/index.html",
+    "label": "国民健康保険の給付／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/9072.html",
+    "label": "国民健康保険・後期高齢者の人間ドック費用助成の手続きがオンライン申請できます！／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokikorei/9074.html",
+    "label": "国民健康保険・後期高齢者の人間ドック費用助成の手続きがオンライン申請できます！／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/kokuhotetsuduki/1422534733708.html",
+    "label": "国民健康保険の加入／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/care-consultation/",
@@ -4312,10 +7173,38 @@
     "label": "認知症の相談・支援"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/1422533213097.html",
+    "label": "地域包括支援センター／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/10/1003/korei_service/13021.html",
+    "label": "地域包括支援センターの職員を募集しています／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/korei/korei_sodan/1425446932915.html",
+    "label": "地域包括支援センター／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/kaigo/kaigo_sodan/9201.html",
+    "label": "地域包括支援センター／袋井市",
+    "match_score": 8,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/child-consultation/",
@@ -4360,10 +7249,38 @@
     "label": "ヤングケアラーの相談窓口"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kodomowakamonokateicenter/index.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kodomowakamonokateicenter/13305.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kosodate_sodan/13799.html",
+    "label": "こども若者家庭センター／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kokusaika/Forforeigners/10239.html",
+    "label": "Domestic Violence(DV/家庭内暴力） 外国語 相談 ダイヤル / 子ども・家庭 外国語 相談 電話／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/consumer-fraud/",
@@ -4405,10 +7322,38 @@
     "label": "特殊詐欺対策（ストップ、オレオレ詐欺）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/shohi/1435555158282.html",
+    "label": "消費者ホットライン『188（嫌や！）』をご利用ください／袋井市",
+    "match_score": 9,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/shohi/1536905871533.html",
+    "label": "消費者トラブル注意情報／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/shohi/1425446993004.html",
+    "label": "袋井市消費生活センターをご利用ください／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/sagi/1536905871615.html",
+    "label": "消費者トラブル注意情報／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/disability-consultation/",
@@ -4453,10 +7398,38 @@
     "label": "精神保健福祉総合相談（予約制）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/3/shogaitecho/index.html",
+    "label": "身体障害者手帳・療育手帳・精神障害者保健福祉手帳／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/shogaifukushi/shogaitecho/index.html",
+    "label": "身体障害者手帳・療育手帳・精神障害者保健福祉手帳／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/shogaifukushi/shogaitecho/1448942472698.html",
+    "label": "精神障害者保健福祉手帳／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/32/1_1/iken/13842.html",
+    "label": "総合健康センター基本構想〔保健・介護・福祉・子育て機能〕（案）に対するパブリックコメント【意見聴取】／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/certificates/",
@@ -4478,7 +7451,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -4506,10 +7481,20 @@
     "label": "農地の転用"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/1433236385636.html",
+    "label": "農用地区域からの除外申し出について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/conversion/",
@@ -4539,10 +7524,26 @@
     "label": "農振除外（農用地区域からの除外）"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/12827.html",
+    "label": "うみてらすDORI『海辺の駐車場』『展望デッキ』がオープンしました！／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1425447035491.html",
+    "label": "農地を農地として売買、貸借する場合／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/",
@@ -4589,10 +7590,38 @@
     "label": "磐田市農業委員会"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/2/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1539244993567.html",
+    "label": "農業委員会事務の実施状況等の公表について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1425447035422.html",
+    "label": "農業委員会のあっせん／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/inheritance/",
@@ -4633,10 +7662,38 @@
     "label": "相続土地国庫帰属制度の概要"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/2/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1539244993567.html",
+    "label": "農業委員会事務の実施状況等の公表について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1425447035422.html",
+    "label": "農業委員会のあっせん／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/noshin-exclusion/",
@@ -4658,10 +7715,20 @@
     "label": "農地関係手続き"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/1433236385636.html",
+    "label": "農用地区域からの除外申し出について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/farmland/sell-or-rent/",
@@ -4699,10 +7766,38 @@
     "label": "農地バンク事業"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/2/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/index.html",
+    "label": "農業委員会／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1539244993567.html",
+    "label": "農業委員会事務の実施状況等の公表について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/norinsuisan/nogyoiin/1425447035422.html",
+    "label": "農業委員会のあっせん／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/foreign-resident-consultation/",
@@ -4731,10 +7826,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/gaikokujin_koseki/1425446997347.html",
+    "label": "外国人住民の方に住民票が作成されます／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/gaikokujin_koseki/index.html",
+    "label": "外国人に関する戸籍・住民票／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/koseki_juminhyo/gaikokujin_koseki/index.html",
+    "label": "外国人に関する戸籍・住民票／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/zeimu4/9430.html",
+    "label": "外国人住民のための税金の手引き（Tax Guide for Foreign Residents）／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/",
@@ -4752,10 +7875,26 @@
     "label": "磐田市公式サイトを確認する"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/shohi/1536905871533.html",
+    "label": "消費者トラブル注意情報／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/sagi/1536905871615.html",
+    "label": "消費者トラブル注意情報／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/legal-general-consultation/",
@@ -4800,10 +7939,38 @@
     "label": "市役所以外で行っている法的相談"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/shohi/1425446993004.html",
+    "label": "袋井市消費生活センターをご利用ください／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/sodan/kurashi_sodan/1425446996549.html",
+    "label": "行政相談／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/sodan/kurashi_sodan/1425446937895.html",
+    "label": "社会福祉協議会 法律相談／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shohiseikatsu/index.html",
+    "label": "消費生活／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/living-costs-trouble/",
@@ -4837,10 +8004,38 @@
     "label": "福祉相談課のご案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/12/seikatsu_fukushi/seikatsuhogo/index.html",
+    "label": "生活保護／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/chiiki_sikatsu/seikatsufukushi/1425446936272.html",
+    "label": "生活保護／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/31/gomi/11380.html",
+    "label": "アルミ・スチール缶のふたは取らなくても大丈夫！／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/recycle/11534.html",
+    "label": "アルミ・スチール缶のふたは取らなくても大丈夫！／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/road-repair-mirror/",
@@ -4871,10 +8066,26 @@
     "label": "道路河川課のご案内"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/1422534351467.html",
+    "label": "道路・排水路の維持補修についての要望／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jutaku_doro/tochi_doro/doro/8867.html",
+    "label": "道路・排水路の維持補修についての要望／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/troubles-consult/vacant-house-consultation/",
@@ -4916,10 +8127,38 @@
     "label": "固定資産税・都市計画税"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/2/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/index.html",
+    "label": "固定資産税・都市計画税 全般／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/zenpan/1425447019908.html",
+    "label": "固定資産税・都市計画税 納税通知書をご覧ください／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/koteishisan/index.html",
+    "label": "固定資産税・都市計画税／袋井市",
+    "match_score": 10,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/city-tax-payment/",
@@ -4948,10 +8187,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/3/nozei/9402.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/3/nozei/9401.html",
+    "label": "市税の口座振替をご利用ください／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/nozei/10482.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/nozei/10465.html",
+    "label": "市税の口座振替をご利用ください／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/",
@@ -4971,7 +8238,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -5003,10 +8272,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/2/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/1/2/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/job-recruitment/",
@@ -5036,10 +8333,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/2/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/1/2/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/jinji_saiyo/index.html",
+    "label": "人事・職員採用／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kyoikuiin/syotyugakko/02_saiyouzyohou/14533.html",
+    "label": "教員採用試験勉強会(令和8年度前期版)参加者募集／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/light-vehicle-tax/",
@@ -5068,10 +8393,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/3/keijido/index.html",
+    "label": "軽自動車税／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/keijido/index.html",
+    "label": "軽自動車税／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/keijido/10430.html",
+    "label": "軽自動車税の課税／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/keijido/10427.html",
+    "label": "軽自動車税の減免制度／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/my-number-card/",
@@ -5096,10 +8449,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/index.html",
+    "label": "マイナンバー利用推進係／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9980.html",
+    "label": "マイナンバーカードと電子証明書の更新について／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9272.html",
+    "label": "もっと便利に！マイナンバーカード／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9058.html",
+    "label": "マイナンバーカードご利用ガイドブック／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/national-health-insurance-tax/",
@@ -5129,10 +8510,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152446314.html",
+    "label": "国民健康保険税が払えないので、国民健康保険をやめたいのですが。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152445578.html",
+    "label": "現在収入がないが、国民健康保険税を払わなければいけませんか。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152445092.html",
+    "label": "職場の健康保険に加入したのに、国民健康保険税の納税通知書が届いたのはなぜですか。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/1422534733848.html",
+    "label": "国民健康保険一部負担金の減免について／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/nhk-pension/",
@@ -5158,10 +8567,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/kokuhotetsuduki/1422534733708.html",
+    "label": "国民健康保険の加入／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152446464.html",
+    "label": "世帯主は国民健康保険に加入していないのに、世帯主あてに納税通知書が届いたのはなぜですか。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/1/faq/1427152445898.html",
+    "label": "会社を退職したので、国民健康保険に加入したいのですが。／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/hokenn/3/kokuminkenkouhokenkyuuhu/index.html",
+    "label": "国民健康保険の給付／袋井市",
+    "match_score": 6,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/resident-tax/",
@@ -5190,10 +8627,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/3/nozei/9402.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/nozei/10482.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9672.html",
+    "label": "水道料金・下水道使用料の納付方法について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/7/1/shiminzei/1589435575807.html",
+    "label": "新型コロナウイルス感染症の影響による法人市民税の申告・納付等の期限延長について／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/start-business/",
@@ -5223,10 +8688,20 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/jigyosha/9264.html",
+    "label": "就職情報サイト「ふくろいdeあつまろう」／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/start-farming/",
@@ -5256,7 +8731,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -5284,7 +8761,9 @@
    }
   ],
   "sources_fukuroi": [],
-  "facts": {},
+  "facts": {
+   "taiou_page": "確認中（対応ページ候補なし・チャット側で個別調査）"
+  },
   "status": "draft",
   "verified_date": null
  },
@@ -5315,10 +8794,32 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/3/nozei/9402.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/nozei/10482.html",
+    "label": "市税の納付方法についてのご案内／袋井市",
+    "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/jogesuido/josuido/9672.html",
+    "label": "水道料金・下水道使用料の納付方法について／袋井市",
+    "match_score": 4,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/tax-certificates/",
@@ -5348,10 +8849,38 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ict/1/1607633554486.html",
+    "label": "住民票などの証明書をオンラインで請求できます／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/shizei_shomei/shomei/10709.html",
+    "label": "住民票などの証明書をオンラインで請求できます／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_1/10139.html",
+    "label": "住民票などの証明書をオンラインで請求できます／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/johoka/denshishinsei/10709.html",
+    "label": "住民票などの証明書をオンラインで請求できます／袋井市",
+    "match_score": 7,
+    "confidence": "high"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。",
+  "verified_by": "machine"
  },
  {
   "href": "/life/work-life/tax-guide/",
@@ -5381,9 +8910,19 @@
     "label": "磐田市公式サイト"
    }
   ],
-  "sources_fukuroi": [],
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/nouzei/zeimu4/9427.html",
+    "label": "納税の猶予制度について／袋井市",
+    "match_score": 3,
+    "confidence": "low"
+   }
+  ],
   "facts": {},
-  "status": "draft",
-  "verified_date": null
+  "status": "machine-verified",
+  "verified_date": "2026-07-02",
+  "ai_checked_date": "2026-07-02",
+  "ai_notes": "自動マッチング候補。verify_sources.pyで本文突合すること。【低信頼候補を含む・チャット側レビュー必須】",
+  "verified_by": "machine"
  }
 ]
