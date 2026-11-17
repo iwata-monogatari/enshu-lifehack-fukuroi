@@ -10126,5 +10126,249 @@
     "label": "「手続きナビ」をご利用ください／袋井市"
    }
   ]
+ },
+ {
+  "href": "/life/play-out/family-outings/",
+  "title": "袋井市の子連れ・車なしのお出かけガイド",
+  "icon": "🚶",
+  "category": "遊び・外出",
+  "synonyms": [
+   "子連れ",
+   "お出かけ",
+   "観光",
+   "車なし",
+   "遠州三山",
+   "可睡齋",
+   "法多山",
+   "油山寺",
+   "月見の里",
+   "親子",
+   "郷土資料館",
+   "エコパ",
+   "浅羽",
+   "秋葉バス",
+   "週末"
+  ],
+  "status": "verified",
+  "verified_date": "2026-11-17",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/102/ainokouen.pdf",
+    "label": "愛野公園の設備（市PDF）"
+   },
+   {
+    "url": "https://lib.city.fukuroi.shizuoka.jp/tsukimi/",
+    "label": "月見の里学遊館図書館分室 - 袋井市立図書館"
+   },
+   {
+    "url": "https://lib.city.fukuroi.shizuoka.jp/asaba/",
+    "label": "浅羽図書館 - 袋井市立図書館"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/60/1424417997451.html",
+    "label": "中央子育て支援センター／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1553644434284.html",
+    "label": "袋井市自主運行バス／袋井市"
+   },
+   {
+    "url": "https://akiha.bustei.net/buslocation/",
+    "label": "秋葉バスの運行位置"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13151.html",
+    "label": "市の観光施設・最寄り停留所一覧"
+   },
+   {
+    "url": "https://akiha.bustei.net/time/index.html",
+    "label": "停留所別の行き・帰り時刻"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shiryokan/1425447023798.html",
+    "label": "袋井市郷土資料館・近藤記念館／袋井市"
+   },
+   {
+    "url": "https://www.ecopa.jp/access/",
+    "label": "エコパの徒歩ルートと迂回図"
+   },
+   {
+    "url": "https://www.ecopa.jp/question/",
+    "label": "エコパの設備・交通FAQ"
+   },
+   {
+    "url": "https://www.ecopa.jp/",
+    "label": "エコパの催事・通行規制"
+   },
+   {
+    "url": "https://fukuroi-rekishi.com/tenji/2026/10/post-337.html",
+    "label": "企画展の日程と休館日"
+   },
+   {
+    "url": "https://www.akihabus.co.jp/%E9%81%8B%E8%B3%83-%E5%AE%9A%E6%9C%9F%E5%88%B8/%E6%99%AE%E9%80%9A%E9%81%8B%E8%B3%83/",
+    "label": "秋葉バスの運賃表"
+   },
+   {
+    "url": "https://www.akihabus.co.jp/unchinkaitei/",
+    "label": "主要区間の改定運賃"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/123/2022_shinsuikouen.pdf",
+    "label": "親水公園の施設図（市PDF）"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+    "label": "法多山への徒歩・タクシー案内"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/qa/",
+    "label": "法多山の参道・設備FAQ"
+   },
+   {
+    "url": "https://fukuroi-rekishi.com/",
+    "label": "歴史文化館の展示予定"
+   },
+   {
+    "url": "https://railway.jr-central.co.jp/station-guide/shizuoka/aino/barrier-free.html",
+    "label": "JR愛野駅のバリアフリー設備"
+   },
+   {
+    "url": "https://railway.jr-central.co.jp/station-guide/shizuoka/fukuroi/barrier-free.html",
+    "label": "JR袋井駅のバリアフリー設備"
+   },
+   {
+    "url": "https://www.kasuisai.or.jp/wp/p57",
+    "label": "アクセス・駐車場案内 | 秋葉総本殿　可睡斎"
+   },
+   {
+    "url": "https://www.kasuisai.or.jp/wp/p06",
+    "label": "拝観のご案内 | 秋葉総本殿　可睡斎"
+   },
+   {
+    "url": "https://lib.city.fukuroi.shizuoka.jp/fukuroi/",
+    "label": "袋井図書館 - 袋井市立図書館"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shizen/11240.html",
+    "label": "可睡ゆりの園／袋井市"
+   },
+   {
+    "url": "https://www.yurien.jp/",
+    "label": "可睡ゆりの園｜3万坪に広がるゆりの競演。静岡県袋井市久能「可睡ゆりの園」"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E8%A2%8B%E4%BA%95%E5%B8%82%E9%83%B7%E5%9C%9F%E8%B3%87%E6%96%99%E9%A4%A8%E3%83%BB%E8%BF%91%E8%97%A4%E8%A8%98%E5%BF%B5%E9%A4%A8/",
+    "label": "袋井市郷土資料館・近藤記念館 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/84/shisetsuannnai.pdf",
+    "label": "資料館・公園周辺図（市PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/02_hokubu_map202504ver3.pdf",
+    "label": "フーちゃん号の路線図・時刻表（PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/87/map_naka_no05.pdf",
+    "label": "袋井駅から愛野駅の散策地図（市PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/koenriyou/1422534382871.html",
+    "label": "ようこそ公園へ!／袋井市"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E6%BE%A4%E9%87%8E%E5%8C%BB%E9%99%A2%E8%A8%98%E5%BF%B5%E9%A4%A8/",
+    "label": "澤野医院記念館 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E6%9D%B1%E6%B5%B7%E9%81%93%E3%81%A9%E3%81%BE%E3%82%93%E4%B8%AD%E8%A2%8B%E4%BA%95%E5%AE%BF/",
+    "label": "東海道どまん中袋井宿 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/03_nanbu_map202504ver2.pdf",
+    "label": "メローバスの路線図・時刻表（PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1473923492503.html",
+    "label": "デマンドタクシー（予約型乗合タクシー）／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shisetsu/11299.html",
+    "label": "東海道どまん中茶屋／袋井市"
+   },
+   {
+    "url": "https://www.akihabus.co.jp/timetable20260401/%E8%B7%AF%E7%B7%9A%E5%88%A5%E6%99%82%E5%88%BB%E8%A1%A8/",
+    "label": "秋葉バスの路線別時刻表"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shisetsu/11239.html",
+    "label": "袋井市観光案内所（2026年4月1日から営業時間が変更になります）／袋井市"
+   },
+   {
+    "url": "https://tsukiminosato.jp/access/",
+    "label": "学遊館のバスアクセス"
+   },
+   {
+    "url": "https://tsukiminosato.jp/info/howtouse/",
+    "label": "学遊館の授乳・おむつ替え・段差案内"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/102/2tukimi.pdf",
+    "label": "月見の里公園の設備（市PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/1/walking/11043.html",
+    "label": "市のウォーキングコース"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/87/No04_naka.pdf",
+    "label": "袋井宿の散策地図（市PDF）"
+   },
+   {
+    "url": "https://akihabus.sakura.ne.jp/20251001/20251001_akiha_holiday.pdf",
+    "label": "秋葉バスの土曜・日祝時刻表（PDF）"
+   },
+   {
+    "url": "https://yusanji.jp/",
+    "label": "目の霊山 油山寺 YUSANJI"
+   }
+  ]
+ },
+ {
+  "href": "/life/play-out/park-finder/",
+  "title": "袋井市の公園を町名・遊具・芝生で探す",
+  "icon": "🌳",
+  "category": "遊び・外出",
+  "synonyms": [
+   "公園検索",
+   "遊具",
+   "芝生",
+   "公園マップ",
+   "近所の公園",
+   "遊び場",
+   "原野谷川",
+   "愛野公園",
+   "豊沢の丘公園"
+  ],
+  "status": "verified",
+  "verified_date": "2026-11-17",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/koenriyou/1422534396768.html",
+    "label": "豊沢の丘公園／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/123/R6_toshikouenn.pdf",
+    "label": "市の公園所在地一覧表（PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/shisetsu/1426473212934.html",
+    "label": "市の施設マップ"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/ijikannrika/kouenn/koenriyou/1422534382871.html",
+    "label": "ようこそ公園へ!／袋井市"
+   }
+  ]
  }
 ]
