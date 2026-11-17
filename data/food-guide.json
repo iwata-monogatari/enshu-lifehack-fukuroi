@@ -1,0 +1,497 @@
+{
+  "checked": "2026-11-18",
+  "sources": {
+    "asaba": {
+      "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/asaba/",
+      "label": "あさば新鮮市 | 直売所一覧 | JA遠州中央"
+    },
+    "baby": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/60/1424417997451.html",
+      "label": "中央子育て支援センター／袋井市"
+    },
+    "bus": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1553644434284.html",
+      "label": "袋井市自主運行バス／袋井市"
+    },
+    "busnow": {
+      "url": "https://akiha.bustei.net/buslocation/",
+      "label": "秋葉バスの現在の運行位置"
+    },
+    "busouting": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13151.html",
+      "label": "市の観光施設とバス停の案内"
+    },
+    "bustime": {
+      "url": "https://akiha.bustei.net/time/index.html",
+      "label": "秋葉バスの停留所別時刻表"
+    },
+    "chapiafac": {
+      "url": "https://jaenchu.ja-shizuoka.or.jp/business/other/chapia/facility/",
+      "label": "施設紹介 | 茶ピア | その他のサービス | サービス紹介 | JA遠州中央"
+    },
+    "chapiataiken": {
+      "url": "https://jaenchu.ja-shizuoka.or.jp/business/other/chapia/taiken/",
+      "label": "お茶体験 | 茶ピア | その他のサービス | サービス紹介 | JA遠州中央"
+    },
+    "dango": {
+      "url": "https://www.hattasan.or.jp/dango/",
+      "label": "法多山名物「厄除だんご」のご案内"
+    },
+    "dangoqa": {
+      "url": "https://www.hattasan.or.jp/qa/",
+      "label": "法多山｜よくある御質問"
+    },
+    "denmark": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E9%85%AA%E8%BE%B2%E4%BD%93%E9%A8%93/",
+      "label": "酪農体験 – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "denmilk": {
+      "url": "https://www.denmark-bokujyo.or.jp/shisetsu004/",
+      "label": "乳製品等販売 牧場事業| 社会福祉法人 デンマーク牧場福祉会"
+    },
+    "dondo": {
+      "url": "https://www.dondoko.jp/",
+      "label": "ホーム | 有限会社どんどこあさば"
+    },
+    "egg": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F/",
+      "label": "袋井宿たまごふわふわ – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "eggnews": {
+      "url": "https://www.fukuroi-kankou.jp/news/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%AE%E5%90%8D%E7%89%A9%E6%96%99%E7%90%86%E3%80%8C%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%80%8D/",
+      "label": "観光協会のたまごふわふわ案内・味わいマップ（2026年11月5日公開）"
+    },
+    "fare": {
+      "url": "https://www.akihabus.co.jp/%E9%81%8B%E8%B3%83-%E5%AE%9A%E6%9C%9F%E5%88%B8/%E6%99%AE%E9%80%9A%E9%81%8B%E8%B3%83/",
+      "label": "秋葉バスの普通運賃"
+    },
+    "genki": {
+      "url": "https://www.genki-jp.com/contact",
+      "label": "CONTACT | じぇらーとげんき"
+    },
+    "goodday": {
+      "url": "https://cycling.fukuroi-kankou.jp/spot/good-day-cafe/",
+      "label": "Good Day Cafe – フクロイサイクリングライフ"
+    },
+    "haru": {
+      "url": "https://bishokutei-haru.com/",
+      "label": "美食亭 遥の営業時間・アクセス"
+    },
+    "hattabus": {
+      "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+      "label": "法多山⇔袋井駅間　運行バス終了のお知らせ | 法多山 尊永寺"
+    },
+    "info": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shisetsu/11239.html",
+      "label": "袋井市観光案内所（2026年4月1日から営業時間が変更になります）／袋井市"
+    },
+    "library": {
+      "url": "https://lib.city.fukuroi.shizuoka.jp/fukuroi/",
+      "label": "袋井図書館 - 袋井市立図書館"
+    },
+    "merchants": {
+      "url": "https://www.fukuroi-cci.or.jp/pre/kameitenn.htm",
+      "label": "商工会議所の商店所在地一覧"
+    },
+    "mero": {
+      "url": "https://mero-shizuoka.ocnk.net/page/3",
+      "label": "メロー静岡について - (株)メロー静岡"
+    },
+    "merocutdetail": {
+      "url": "https://mero-shizuoka.ocnk.net/product/36",
+      "label": "ハーフカットメロン（店内でお召し上がりになれます） - (株)メロー静岡"
+    },
+    "merojuicedetail": {
+      "url": "https://mero-shizuoka.ocnk.net/product/37",
+      "label": "生ジュース※通販不可 - (株)メロー静岡"
+    },
+    "merosoftdetail": {
+      "url": "https://mero-shizuoka.ocnk.net/product/56",
+      "label": "ソフトクリーム（メロントッピング付き）※通販不可 - (株)メロー静岡"
+    },
+    "mota": {
+      "url": "https://www.fukuroi-kankou.jp/fukunomi/vol07/shop19/",
+      "label": "太田牧場 Mota（モータ）の店｜ふく吞み｜袋井市観光協会"
+    },
+    "museumroute": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/84/shisetsuannnai.pdf",
+      "label": "浅羽図書館・資料館周辺の地図（市PDF）"
+    },
+    "nijtour": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%90%8D%E5%80%89%E3%83%A1%E3%83%AD%E3%83%B3%E8%BE%B2%E5%A0%B4%EF%BC%8Ffruit-cafe-niji/",
+      "label": "名倉メロン農場 fruit cafe NiJi – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "north": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/02_hokubu_map202504ver3.pdf",
+      "label": "フーちゃん号の路線図・時刻表（市PDF）"
+    },
+    "ohataki": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%8A%E3%81%AF%E3%81%9F%E3%81%8D%E8%82%89%E5%B7%BB%E3%81%8D/",
+      "label": "おはたき肉巻き – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "produce": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/1/nogyoshinko/1422535788146.html",
+      "label": "袋井の農産物／袋井市"
+    },
+    "south": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/03_nanbu_map202504ver2.pdf",
+      "label": "メローバス・南部の路線図（市PDF）"
+    },
+    "taxi": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1473923492503.html",
+      "label": "デマンドタクシー（予約型乗合タクシー）／袋井市"
+    },
+    "timetable": {
+      "url": "https://www.akihabus.co.jp/timetable20260401/%E8%B7%AF%E7%B7%9A%E5%88%A5%E6%99%82%E5%88%BB%E8%A1%A8/",
+      "label": "秋葉バスの平日・土日祝の時刻表"
+    },
+    "toretour": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8C%E3%81%9F%E3%81%A6%E9%A3%9F%E6%A5%BD%E9%83%A8/",
+      "label": "とれたて食楽部 – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "tori": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8A%E3%82%84%E8%8C%B6%E5%B1%8B/",
+      "label": "とりや茶屋 – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "tsuki": {
+      "url": "https://tsukiminosato.jp/access/",
+      "label": "月見の里学遊館へのアクセス"
+    },
+    "tsukifaq": {
+      "url": "https://tsukiminosato.jp/info/howtouse/",
+      "label": "貸館ご利用方法 – 袋井市月見の里学遊館　オフィシャルサイト"
+    },
+    "tsukimarket": {
+      "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/tsukimi/",
+      "label": "新鮮市　月見の里ひろば | 直売所一覧 | JA遠州中央"
+    },
+    "yamana": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%B1%B1%E6%A2%A8%E5%B1%8B%E5%AF%BF%E5%8F%B8%E5%BA%97/",
+      "label": "山梨屋寿司店 – オクユキフクロイ｜袋井市観光協会公式サイト"
+    },
+    "yawa": {
+      "url": "https://yawaraginoyu.co.jp/news/6874/",
+      "label": "東海道五十三次のどまん中【袋井宿】「たまごふわふわ」 – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+    },
+    "yawaaccess": {
+      "url": "https://yawaraginoyu.co.jp/access/",
+      "label": "アクセス – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+    },
+    "yawafood": {
+      "url": "https://yawaraginoyu.co.jp/restaurant/",
+      "label": "お食事 – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+    }
+  },
+  "eggshops": [
+    {
+      "id": "tori",
+      "name": "遠州味処 とりや茶屋",
+      "area": "station",
+      "kind": "meal",
+      "address": "高尾町15-7",
+      "tel": "0538-42-2427",
+      "hours": "11:30～14:00／17:00～21:30",
+      "closed": "月曜",
+      "food": "だしと卵のたまごふわふわ。江戸時代の製法を再現する店で、昼は魚介料理やトンテキなどと組み合わせて食事にできます。",
+      "trip": "袋井駅北口から駅前の通りを歩くコース。袋井図書館やカンガルーのぽっけと同じ駅北側です。",
+      "note": "昼の閉店は14:00。調理に時間がかかる料理なので、子どもの食事も含め、予約時に提供時間を相談すると予定を組みやすくなります。",
+      "sources": "tori eggnews"
+    },
+    {
+      "id": "yamana",
+      "name": "山梨屋寿司店",
+      "area": "station",
+      "kind": "meal",
+      "address": "高尾町24-9",
+      "tel": "0538-42-2422",
+      "hours": "11:00～14:00／17:00～20:00",
+      "closed": "水曜",
+      "food": "寿司と一緒に、だしのたまごふわふわを味わえる駅前の店。にぎりやちらし丼があり、昼の営業は11:00からです。",
+      "trip": "袋井駅北口の徒歩圏。駅へ戻りやすい場所で昼食をとりたい日に。",
+      "note": "生魚を食べない子どもには、食べられる具材や量を注文前に相談しましょう。たまごふわふわの当日の提供と予約の要否は電話で確認できます。",
+      "sources": "yamana eggnews"
+    },
+    {
+      "id": "haru",
+      "name": "美食亭 遥（はる）",
+      "area": "station",
+      "kind": "meal",
+      "address": "高尾町12-4",
+      "tel": "050-8884-1297",
+      "hours": "11:30～15:00（L.O.14:00）／17:00～23:00（L.O.22:00）",
+      "closed": "水曜",
+      "food": "観光協会の味わいマップでは、すっぽん入りのたまごふわふわを掲載。店の公式案内は、すっぽん料理や生簀の魚介を使った和食を紹介しています。",
+      "trip": "店の公式案内で袋井駅から徒歩約1分。電車の前後に食事をする候補です。",
+      "note": "公式にファミリーの利用を歓迎。たまごふわふわの提供時間・数量・価格は来店前に確認してください。営業時間は味わいマップより店の現行案内を優先しています。",
+      "sources": "eggnews haru"
+    },
+    {
+      "id": "mamehana",
+      "name": "お花とカフェ まめはな",
+      "area": "oldtown",
+      "kind": "meal",
+      "address": "袋井38",
+      "tel": "0538-43-7387",
+      "hours": "8:30～17:30",
+      "closed": "火曜",
+      "food": "観光協会の再現料理の欄に載る、たまごふわふわを食べられるカフェ。旧東海道の散策と合わせて立ち寄る候補です。",
+      "trip": "駅前の短い往復から、旧東海道方面へ歩きを延ばす日に。店舗の地図と袋井宿の散策コースで往復距離を確認できます。",
+      "note": "開店時刻にたまごふわふわを注文できるかは別途確認が必要です。朝の立ち寄りを計画する場合は、料理の提供開始時刻も電話で尋ねてください。",
+      "sources": "eggnews"
+    },
+    {
+      "id": "domannaka",
+      "name": "居酒屋 どまん中",
+      "area": "oldtown",
+      "kind": "meal",
+      "address": "袋井314-6",
+      "tel": "0538-43-8858",
+      "hours": "17:30～24:00",
+      "closed": "月曜・第3火曜",
+      "food": "たまごふわふわを提供する、旧東海道沿いの夜営業の店。観光協会の案内では、営業時間外についても問い合わせができます。",
+      "trip": "袋井宿散策の後、夕食をとる場合の候補。昼の散策コースで利用するなら、先に昼営業の可否を問い合わせます。",
+      "note": "子連れで夕食に使う場合は、利用時間と席を先に相談。深夜の閉店時刻に合わせず、帰りの電車から逆算して入店しましょう。",
+      "sources": "eggnews"
+    },
+    {
+      "id": "yawa",
+      "name": "袋井温泉 和の湯",
+      "area": "bus",
+      "kind": "meal",
+      "address": "諸井2022-3",
+      "tel": "0538-23-1500",
+      "hours": "食事：平日11:00～14:00（L.O.13:30）・17:00～20:30（L.O.20:00）、土日祝11:00～21:00（L.O.20:30）",
+      "closed": "年中無休の案内あり。臨時休館は施設で確認",
+      "food": "自家養殖のとらふぐを使うたまごふわふわは数量限定で600円。公式メニューにはお子様カレー400円やうどんもあります。金額は2026年11月18日確認の掲載価格です。",
+      "trip": "公式アクセスは柳原南バス停から徒歩約10分、袋井駅から徒歩約28分。駅南口からの秋葉中遠線の行き・帰りを確認して利用します。",
+      "note": "温泉施設内の食事処です。食事だけの利用条件や入館料の扱いは施設に確認してください。平日14:00～17:00はデザート・ドリンクだけの喫茶時間です。",
+      "sources": "yawa yawafood yawaaccess eggnews"
+    },
+    {
+      "id": "yamada",
+      "name": "お食事処 山田",
+      "area": "taxi",
+      "kind": "meal",
+      "address": "豊沢2750",
+      "tel": "0538-42-2057",
+      "hours": "10:00～15:30",
+      "closed": "原則木曜",
+      "food": "法多山方面のたまごふわふわ提供店。観光協会の再現料理の欄に掲載されています。",
+      "trip": "法多山へ参拝する日の食事候補。愛野駅から法多山への徒歩は30～40分が目安で、幼児連れは往復のタクシー手配も選択肢です。",
+      "note": "法多山へ通う常設の路線バスはありません。門前の店は参拝日・催事で営業が変わることがあるため、食事の予約と帰りの配車を別々に手配します。",
+      "sources": "eggnews hattabus"
+    },
+    {
+      "id": "genki",
+      "name": "じぇらーとげんき 可睡齋門前店",
+      "area": "bus",
+      "kind": "sweet",
+      "address": "久能2952-1",
+      "tel": "0538-43-7766",
+      "hours": "10:00～17:00",
+      "closed": "水曜・木曜（祝日は営業、振替などは店の案内を確認）",
+      "food": "観光協会の創作料理欄に「たまごふわふわアイス盆」を掲載。温かい卵料理を目指す日と、冷たいおやつを食べる日で選び分けられます。",
+      "trip": "袋井駅北口から秋葉バスで可睡齋入口へ。停留所から門前まで徒歩区間があるので、境内散策とまとめて計画します。",
+      "note": "営業時間・定休日は店の現行公式案内を採用しています。観光協会マップの旧時間とは異なります。目的のアイスの販売状況は出発前に電話で確認できます。",
+      "sources": "genki eggnews busouting"
+    },
+    {
+      "id": "ito",
+      "name": "ふるさと銘菓いとう",
+      "area": "station",
+      "kind": "sweet",
+      "address": "高尾町2-1",
+      "tel": "0538-43-2033",
+      "hours": "8:30～20:00（祝日は19:00まで）",
+      "closed": "木曜",
+      "food": "「たまごふわふわ半熟チーズケーキ」を観光協会の創作料理欄に掲載。駅前で甘いお土産を選びたい日の候補です。",
+      "trip": "味わいマップでは袋井駅北口から約60m。食事の後、電車に乗る前の買い物に組み合わせられます。",
+      "note": "持ち帰りは保冷方法・持ち歩ける時間・消費期限を店頭で確認し、散策の最後に買うと荷物を持つ時間を短くできます。",
+      "sources": "eggnews merchants"
+    },
+    {
+      "id": "goodday",
+      "name": "Good Day Cafe（グッデイカフェ）",
+      "area": "oldtown",
+      "kind": "sweet",
+      "address": "川井963-1",
+      "tel": "0538-43-5380",
+      "hours": "10:30～20:30（L.O.20:00）、ランチ10:30～15:00",
+      "closed": "日曜・木曜",
+      "food": "たまごふわふわをケーキにアレンジしたメニュー。旧東海道の西側、川井地区へ足を延ばす日に選べます。",
+      "trip": "駅前からは歩く距離が長くなる立地。店舗への地図を開いて、袋井宿散策と組み合わせるか、タクシーで往復するかを選びましょう。",
+      "note": "日曜休みのため、日曜の食べ歩きには組み込まず、別の甘味を選びます。持ち帰りの可否は来店前に問い合わせてください。",
+      "sources": "eggnews goodday"
+    },
+    {
+      "id": "center",
+      "name": "袋井観光センター",
+      "area": "bus",
+      "kind": "meal",
+      "address": "堀越538-1",
+      "tel": "0538-43-5566",
+      "hours": "食事11:00～14:00",
+      "closed": "年中無休の案内あり",
+      "food": "たまごふわふわを含む「袋井どまんなか御膳」。観光協会は団体限定・要予約と案内しています。",
+      "trip": "メロー静岡の隣。平日の北部循環線と徒歩、またはタクシーで堀越方面へ。",
+      "note": "家族だけで当日注文できるランチとしては組み込めません。団体の集まりで使う場合に人数・予約条件を相談し、通常の家族旅行の昼食は駅前などで確保します。",
+      "sources": "eggnews"
+    }
+  ],
+  "markets": [
+    {
+      "id": "dango",
+      "name": "法多山名物 厄除だんご・だんご茶屋",
+      "area": "taxi",
+      "kind": "sweet",
+      "address": "豊沢2777（法多山境内）",
+      "tel": "0538-42-4784",
+      "hours": "土産販売8:00～17:00／店内8:00～16:30（L.O.16:25）",
+      "closed": "臨時の変更は法多山の案内で確認",
+      "food": "五本の串が並ぶ法多山の名物。店内で食べる券と持ち帰りの券は受取窓口が別です。店内はお茶付きで休憩できます。",
+      "trip": "愛野駅から徒歩30～40分の参拝路には歩道のない箇所があります。小さい子ども連れはタクシーで門前まで往復する計画も考えます。",
+      "note": "だんご茶屋は境内にあり、タクシーを降りても歩きます。茶だんごは決まった功徳日、桜や栗などは季節限定です。常時販売の厄除だんごと限定商品を区別し、持ち帰り期限は箱の表示で確認してください。",
+      "sources": "dango hattabus"
+    },
+    {
+      "id": "mero",
+      "name": "メロー静岡 袋井本店",
+      "area": "bus",
+      "kind": "melon",
+      "address": "堀越3丁目5-1",
+      "tel": "0538-42-3056",
+      "hours": "9:00～18:00",
+      "closed": "年中無休",
+      "food": "クラウンメロンの専門店。丸ごとの贈答用だけでなく、種を取ったハーフカットを店内で食べられます。半玉の価格は問い合わせ制。店頭限定の生ジュース700円、メロントッピング付きソフトクリーム500円も公式商品ページに掲載されています。",
+      "trip": "袋井観光センター隣。平日は北部循環線「県営住宅入口」と徒歩を組み合わせる候補。土日祝は同バスが休みなので、袋井駅から往復のタクシーを手配します。",
+      "note": "公式商品案内に店内飲食スペースの記載あり。子どもと座って食べる候補です。席の混雑やベビーカーの置き場、完熟カットの在庫を先に相談できます。価格は2026年11月18日確認。",
+      "sources": "mero merocutdetail merojuicedetail merosoftdetail produce north"
+    },
+    {
+      "id": "niji",
+      "name": "名倉メロン農場 fruit cafe NiJi",
+      "area": "taxi",
+      "kind": "melon",
+      "address": "山崎4334",
+      "tel": "0537-48-5677",
+      "hours": "土日祝10:00～17:00、平日は予約の相談が必要",
+      "closed": "通常の営業日は土日祝",
+      "food": "メロン農場のガラス温室を生かしたカフェ。観光協会はカットメロン、パフェ、ジュース、シフォンケーキや贈答用メロンを紹介しています。",
+      "trip": "南部の山崎地区。駅前散策とは別の目的地として、車なしなら帰りまで含めてタクシーを予約する組み立てが向きます。",
+      "note": "このページでは農場のメロンカフェとして紹介しています。提供品を一律にクラウンメロンとは扱わず、銘柄を指定したい場合は予約時に確認。平日の予約可否と子どもの人数も電話で相談してください。",
+      "sources": "nijtour"
+    },
+    {
+      "id": "toretate",
+      "name": "とれたて食楽部",
+      "area": "station",
+      "kind": "market",
+      "address": "山名町3-3",
+      "tel": "0538-41-1100",
+      "hours": "直売所9:00～19:00",
+      "closed": "火曜",
+      "food": "野菜・果物と地域の加工品、お土産を探せる農産物直売所。市のクラウンメロン販売店一覧にも掲載があります。飲食店が集まるフードコートもあり、買い物と食事を同じ場所で組み合わせる候補です。",
+      "trip": "袋井駅北口から山名町へ歩いて向かう駅周辺コース。行きと帰りの徒歩経路を地図で確認できます。",
+      "note": "直売所とフードコートの各店は営業時間が別です。食べたい店の営業を確認してから昼食に組み込みましょう。丸ごとのメロンを買う場合は入荷、食べ頃、発送の可否を売場に確認します。",
+      "sources": "toretour produce"
+    },
+    {
+      "id": "dondo",
+      "name": "どんどこあさば おかって市場",
+      "area": "bus",
+      "kind": "market",
+      "address": "浅岡447",
+      "tel": "0538-23-8918",
+      "hours": "9:00～17:00",
+      "closed": "原則無休。年始・設備点検などの臨時休業あり",
+      "food": "地元の野菜に加え、店オリジナルの豆富、豆乳スイーツ、手作り惣菜が買える直売所。市の一覧にはクラウンメロン販売店としても掲載されています。入荷はその日に確認してください。",
+      "trip": "袋井駅南口から秋葉中遠線の浅岡方面へ。バス停から市場までは徒歩が必要です。浅羽支所周辺の図書館とは場所が離れるため、同じ一か所と考えず地図で移動を確認します。",
+      "note": "併設レストラン「陽だまり」は運営者の公式ページで2023年3月1日から休業と案内されています。ここをビュッフェの昼食先にせず、直売所での買い物を目的に計画します。",
+      "sources": "dondo produce south timetable"
+    },
+    {
+      "id": "tsukimi",
+      "name": "新鮮市 月見の里ひろば",
+      "area": "bus",
+      "kind": "market",
+      "address": "上山梨2-14-7",
+      "tel": "0538-48-6164",
+      "hours": "9:00～16:00",
+      "closed": "水曜、年末年始・盆休み",
+      "food": "JA山梨支店の敷地内で、野菜、メロン、花、手作り味噌、クッキーなどを扱う直売所。公園で遊んだ帰りに、軽く持ち帰れる加工品も選べます。",
+      "trip": "袋井駅北口から山梨方面へバスで行く日に。山梨郵便局前・月見の里学遊館周辺の停留所と市場の位置を確認して寄り道します。",
+      "note": "学遊館の売店ではなく、別の場所にあるJAの直売所です。学遊館の定例休館は木曜、市場の定休は水曜。両方に寄る日は曜日を合わせましょう。",
+      "sources": "tsukimarket tsuki"
+    },
+    {
+      "id": "asaba",
+      "name": "あさば新鮮市",
+      "area": "bus",
+      "kind": "market",
+      "address": "浅名1053",
+      "tel": "0538-23-7877",
+      "hours": "9:00～15:00",
+      "closed": "日曜、年末年始・盆休み",
+      "food": "JA浅羽北支店に併設された市場。季節のミカン・トマト・葉物、袋井産黒大豆や黒大豆100％の味噌を紹介しています。",
+      "trip": "袋井駅南口から秋葉中遠線で浅羽支所入口へ。浅羽図書館、浅羽郷土資料館、復元機関車と組み合わせる土曜の寄り道に。",
+      "note": "日曜は市場が休みです。15:00に閉店するため、資料館や図書館で過ごす前に買い物を済ませる案もあります。休憩・飲食は各施設のルールに従ってください。",
+      "sources": "asaba museumroute timetable"
+    },
+    {
+      "id": "chapia",
+      "name": "香りの丘 茶ピア",
+      "area": "taxi",
+      "kind": "tea",
+      "address": "岡崎7157-1",
+      "tel": "0538-44-1900",
+      "hours": "直売所9:00～16:00／茶室は土日10:00～16:00（受付15:30まで）",
+      "closed": "直売所は火曜休み",
+      "food": "袋井のお茶選びに加え、芝生広場や日本庭園、茶室を楽しめる施設。直売所は各産地のお茶やしいたけなどを取りそろえ、全国発送にも対応しています。",
+      "trip": "JA公式案内でJR袋井駅からタクシー約10分。往路の降車時に帰りの迎車を相談しておくと、茶室の受付時刻にも合わせやすくなります。",
+      "note": "茶室に入りたい日は土日を選びます。茶摘みは4月下旬～5月上旬で予約制。手揉みは原則10～20名の団体で1か月前までの申込みです。家族で当日参加できる常設体験とは分けて予定を立てましょう。",
+      "sources": "chapiafac chapiataiken produce"
+    },
+    {
+      "id": "info",
+      "name": "袋井市観光案内所",
+      "area": "station",
+      "kind": "tea",
+      "address": "高尾1211-1",
+      "tel": "0538-43-1006",
+      "hours": "9:00～17:00（2026年4月1日から）",
+      "closed": "12月29日～1月3日",
+      "food": "駅前で特産品を買い、観光パンフレットと交通案内を入手できる場所。市はふくろい茶の取扱先にも挙げています。銘柄と在庫は売場で確認できます。",
+      "trip": "JR袋井駅北口正面。電車に乗る前に、お茶など持ち歩きやすいお土産を選ぶ短時間の立ち寄り先です。",
+      "note": "営業時間は市が告知した2026年4月以降の時間を採用。古い9:30～18:00の案内で予定を立てず、17:00までに立ち寄ります。",
+      "sources": "info produce"
+    },
+    {
+      "id": "mota",
+      "name": "太田牧場 Mota（モータ）の店",
+      "area": "taxi",
+      "kind": "sweet",
+      "address": "大谷614-1",
+      "tel": "0538-49-3073",
+      "hours": "11:00～18:00",
+      "closed": "水曜・木曜",
+      "food": "牧場直営の店で、牛乳を使ったソフトクリームやプリン、シュークリームなどを紹介。季節の食材を使ったトッピングも楽しみの一つです。",
+      "trip": "市北部の大谷地区。駅から歩く食べ歩きとは分けて、車なしなら往復の配車を含む目的地にします。",
+      "note": "ソフトクリームを主役にした短い立ち寄りに。牛乳・卵などの原材料や持ち帰り時間は商品ごとに確認してください。",
+      "sources": "mota"
+    },
+    {
+      "id": "denmark",
+      "name": "デンマーク牧場 グリーングラス",
+      "area": "taxi",
+      "kind": "sweet",
+      "address": "山崎5914-367",
+      "tel": "0538-23-4119",
+      "hours": "売店は土日祝。訪問時間は牧場へ確認",
+      "closed": "売店は12月～3月冬季休業",
+      "food": "牧場で作る牛乳、ヨーグルト、アイスクリームを扱う直営売店。運営者は4月～11月の土日祝の営業を案内しています。",
+      "trip": "小笠山山麓の牧場。車なしでは帰りの迎車も手配し、駅前の買い物とは別に時間を確保します。",
+      "note": "冬の週末も売店が開くと見込まないようにしましょう。搾乳・餌やりなどの酪農体験は予約が必要です。動物とのふれあいと買い物は、それぞれ当日の受入れを確認します。",
+      "sources": "denmilk denmark"
+    }
+  ]
+}

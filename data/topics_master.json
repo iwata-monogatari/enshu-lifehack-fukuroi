@@ -10370,5 +10370,370 @@
     "label": "ようこそ公園へ!／袋井市"
    }
   ]
+ },
+ {
+  "href": "/life/play-out/food-shopping/",
+  "title": "袋井の食べ歩き・買い物ガイド｜子連れ・車なしで巡る",
+  "icon": "🍈",
+  "category": "遊び・外出",
+  "synonyms": [
+   "グルメ",
+   "食べ歩き",
+   "買い物",
+   "食事",
+   "子連れ",
+   "車なし",
+   "観光",
+   "特産品",
+   "お土産",
+   "ランチ"
+  ],
+  "status": "verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/asaba/",
+    "label": "あさば新鮮市 | 直売所一覧 | JA遠州中央"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/kodomoseisaku/kikakukakari/60/1424417997451.html",
+    "label": "中央子育て支援センター／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1553644434284.html",
+    "label": "袋井市自主運行バス／袋井市"
+   },
+   {
+    "url": "https://akiha.bustei.net/buslocation/",
+    "label": "秋葉バスの現在の運行位置"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13151.html",
+    "label": "市の観光施設とバス停の案内"
+   },
+   {
+    "url": "https://akiha.bustei.net/time/index.html",
+    "label": "秋葉バスの停留所別時刻表"
+   },
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/other/chapia/facility/",
+    "label": "施設紹介 | 茶ピア | その他のサービス | サービス紹介 | JA遠州中央"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/dango/",
+    "label": "法多山名物「厄除だんご」のご案内"
+   },
+   {
+    "url": "https://www.denmark-bokujyo.or.jp/shisetsu004/",
+    "label": "乳製品等販売 牧場事業| 社会福祉法人 デンマーク牧場福祉会"
+   },
+   {
+    "url": "https://www.dondoko.jp/",
+    "label": "ホーム | 有限会社どんどこあさば"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F/",
+    "label": "袋井宿たまごふわふわ – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/news/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%AE%E5%90%8D%E7%89%A9%E6%96%99%E7%90%86%E3%80%8C%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%80%8D/",
+    "label": "観光協会のたまごふわふわ案内・味わいマップ（2026年11月5日公開）"
+   },
+   {
+    "url": "https://www.genki-jp.com/contact",
+    "label": "CONTACT | じぇらーとげんき"
+   },
+   {
+    "url": "https://bishokutei-haru.com/",
+    "label": "美食亭 遥の営業時間・アクセス"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+    "label": "法多山⇔袋井駅間　運行バス終了のお知らせ | 法多山 尊永寺"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shisetsu/11239.html",
+    "label": "袋井市観光案内所（2026年4月1日から営業時間が変更になります）／袋井市"
+   },
+   {
+    "url": "https://lib.city.fukuroi.shizuoka.jp/fukuroi/",
+    "label": "袋井図書館 - 袋井市立図書館"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/page/3",
+    "label": "メロー静岡について - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/36",
+    "label": "ハーフカットメロン（店内でお召し上がりになれます） - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/37",
+    "label": "生ジュース※通販不可 - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/56",
+    "label": "ソフトクリーム（メロントッピング付き）※通販不可 - (株)メロー静岡"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/fukunomi/vol07/shop19/",
+    "label": "太田牧場 Mota（モータ）の店｜ふく吞み｜袋井市観光協会"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/84/shisetsuannnai.pdf",
+    "label": "浅羽図書館・資料館周辺の地図（市PDF）"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%90%8D%E5%80%89%E3%83%A1%E3%83%AD%E3%83%B3%E8%BE%B2%E5%A0%B4%EF%BC%8Ffruit-cafe-niji/",
+    "label": "名倉メロン農場 fruit cafe NiJi – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/02_hokubu_map202504ver3.pdf",
+    "label": "フーちゃん号の路線図・時刻表（市PDF）"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%8A%E3%81%AF%E3%81%9F%E3%81%8D%E8%82%89%E5%B7%BB%E3%81%8D/",
+    "label": "おはたき肉巻き – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/1/nogyoshinko/1422535788146.html",
+    "label": "袋井の農産物／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/03_nanbu_map202504ver2.pdf",
+    "label": "メローバス・南部の路線図（市PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1473923492503.html",
+    "label": "デマンドタクシー（予約型乗合タクシー）／袋井市"
+   },
+   {
+    "url": "https://www.akihabus.co.jp/timetable20260401/%E8%B7%AF%E7%B7%9A%E5%88%A5%E6%99%82%E5%88%BB%E8%A1%A8/",
+    "label": "秋葉バスの平日・土日祝の時刻表"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8C%E3%81%9F%E3%81%A6%E9%A3%9F%E6%A5%BD%E9%83%A8/",
+    "label": "とれたて食楽部 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8A%E3%82%84%E8%8C%B6%E5%B1%8B/",
+    "label": "とりや茶屋 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://tsukiminosato.jp/access/",
+    "label": "月見の里学遊館へのアクセス"
+   },
+   {
+    "url": "https://tsukiminosato.jp/info/howtouse/",
+    "label": "貸館ご利用方法 – 袋井市月見の里学遊館　オフィシャルサイト"
+   },
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/tsukimi/",
+    "label": "新鮮市　月見の里ひろば | 直売所一覧 | JA遠州中央"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%B1%B1%E6%A2%A8%E5%B1%8B%E5%AF%BF%E5%8F%B8%E5%BA%97/",
+    "label": "山梨屋寿司店 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   }
+  ]
+ },
+ {
+  "href": "/life/play-out/tamago-fuwafuwa/",
+  "title": "袋井宿たまごふわふわ｜提供店・予約・駅からの行き方",
+  "icon": "🍈",
+  "category": "遊び・外出",
+  "synonyms": [
+   "たまごふわふわ",
+   "たまごフワフワ",
+   "卵ふわふわ",
+   "玉子ふわふわ",
+   "とりや茶屋",
+   "山梨屋",
+   "遥",
+   "和の湯",
+   "まめはな",
+   "いとう",
+   "Good Day Cafe",
+   "どまん中",
+   "げんき",
+   "山田"
+  ],
+  "status": "verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13151.html",
+    "label": "市の観光施設とバス停の案内"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F/",
+    "label": "袋井宿たまごふわふわ – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/news/%E8%A2%8B%E4%BA%95%E5%AE%BF%E3%81%AE%E5%90%8D%E7%89%A9%E6%96%99%E7%90%86%E3%80%8C%E3%81%9F%E3%81%BE%E3%81%94%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E3%80%8D/",
+    "label": "観光協会のたまごふわふわ案内・味わいマップ（2026年11月5日公開）"
+   },
+   {
+    "url": "https://www.genki-jp.com/contact",
+    "label": "CONTACT | じぇらーとげんき"
+   },
+   {
+    "url": "https://cycling.fukuroi-kankou.jp/spot/good-day-cafe/",
+    "label": "Good Day Cafe – フクロイサイクリングライフ"
+   },
+   {
+    "url": "https://bishokutei-haru.com/",
+    "label": "美食亭 遥の営業時間・アクセス"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+    "label": "法多山⇔袋井駅間　運行バス終了のお知らせ | 法多山 尊永寺"
+   },
+   {
+    "url": "https://www.fukuroi-cci.or.jp/pre/kameitenn.htm",
+    "label": "商工会議所の商店所在地一覧"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8A%E3%82%84%E8%8C%B6%E5%B1%8B/",
+    "label": "とりや茶屋 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%B1%B1%E6%A2%A8%E5%B1%8B%E5%AF%BF%E5%8F%B8%E5%BA%97/",
+    "label": "山梨屋寿司店 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://yawaraginoyu.co.jp/news/6874/",
+    "label": "東海道五十三次のどまん中【袋井宿】「たまごふわふわ」 – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+   },
+   {
+    "url": "https://yawaraginoyu.co.jp/access/",
+    "label": "アクセス – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+   },
+   {
+    "url": "https://yawaraginoyu.co.jp/restaurant/",
+    "label": "お食事 – 静岡県袋井市の日帰り天然温泉 袋井温泉和の湯"
+   }
+  ]
+ },
+ {
+  "href": "/life/play-out/melon-markets/",
+  "title": "袋井のクラウンメロン・特産品・直売所ガイド",
+  "icon": "🍈",
+  "category": "遊び・外出",
+  "synonyms": [
+   "クラウンメロン",
+   "メロン",
+   "直売所",
+   "特産品",
+   "お土産",
+   "とれたて食楽部",
+   "どんどこあさば",
+   "月見の里ひろば",
+   "あさば新鮮市",
+   "メロー静岡",
+   "NiJi",
+   "茶ピア",
+   "ふくろい茶",
+   "厄除だんご",
+   "法多山",
+   "Mota",
+   "デンマーク牧場"
+  ],
+  "status": "verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/asaba/",
+    "label": "あさば新鮮市 | 直売所一覧 | JA遠州中央"
+   },
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/other/chapia/facility/",
+    "label": "施設紹介 | 茶ピア | その他のサービス | サービス紹介 | JA遠州中央"
+   },
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/other/chapia/taiken/",
+    "label": "お茶体験 | 茶ピア | その他のサービス | サービス紹介 | JA遠州中央"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/dango/",
+    "label": "法多山名物「厄除だんご」のご案内"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E9%85%AA%E8%BE%B2%E4%BD%93%E9%A8%93/",
+    "label": "酪農体験 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.denmark-bokujyo.or.jp/shisetsu004/",
+    "label": "乳製品等販売 牧場事業| 社会福祉法人 デンマーク牧場福祉会"
+   },
+   {
+    "url": "https://www.dondoko.jp/",
+    "label": "ホーム | 有限会社どんどこあさば"
+   },
+   {
+    "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+    "label": "法多山⇔袋井駅間　運行バス終了のお知らせ | 法多山 尊永寺"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shisetsu/11239.html",
+    "label": "袋井市観光案内所（2026年4月1日から営業時間が変更になります）／袋井市"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/page/3",
+    "label": "メロー静岡について - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/36",
+    "label": "ハーフカットメロン（店内でお召し上がりになれます） - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/37",
+    "label": "生ジュース※通販不可 - (株)メロー静岡"
+   },
+   {
+    "url": "https://mero-shizuoka.ocnk.net/product/56",
+    "label": "ソフトクリーム（メロントッピング付き）※通販不可 - (株)メロー静岡"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/fukunomi/vol07/shop19/",
+    "label": "太田牧場 Mota（モータ）の店｜ふく吞み｜袋井市観光協会"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/84/shisetsuannnai.pdf",
+    "label": "浅羽図書館・資料館周辺の地図（市PDF）"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E5%90%8D%E5%80%89%E3%83%A1%E3%83%AD%E3%83%B3%E8%BE%B2%E5%A0%B4%EF%BC%8Ffruit-cafe-niji/",
+    "label": "名倉メロン農場 fruit cafe NiJi – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/02_hokubu_map202504ver3.pdf",
+    "label": "フーちゃん号の路線図・時刻表（市PDF）"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/15/1/nogyoshinko/1422535788146.html",
+    "label": "袋井の農産物／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/material/files/group/8/03_nanbu_map202504ver2.pdf",
+    "label": "メローバス・南部の路線図（市PDF）"
+   },
+   {
+    "url": "https://www.akihabus.co.jp/timetable20260401/%E8%B7%AF%E7%B7%9A%E5%88%A5%E6%99%82%E5%88%BB%E8%A1%A8/",
+    "label": "秋葉バスの平日・土日祝の時刻表"
+   },
+   {
+    "url": "https://www.fukuroi-kankou.jp/sightseeing/%E3%81%A8%E3%82%8C%E3%81%9F%E3%81%A6%E9%A3%9F%E6%A5%BD%E9%83%A8/",
+    "label": "とれたて食楽部 – オクユキフクロイ｜袋井市観光協会公式サイト"
+   },
+   {
+    "url": "https://tsukiminosato.jp/access/",
+    "label": "月見の里学遊館へのアクセス"
+   },
+   {
+    "url": "https://jaenchu.ja-shizuoka.or.jp/business/direct/tsukimi/",
+    "label": "新鮮市　月見の里ひろば | 直売所一覧 | JA遠州中央"
+   }
+  ]
  }
 ]

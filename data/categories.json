@@ -264,6 +264,21 @@
    "url": "https://fukuroi.enshu-lifehack.com/life/play-out/",
    "items": [
     {
+     "id": "food-shopping",
+     "label": "袋井の食べ歩き・買い物ガイド｜子連れ・車なしで巡る",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/food-shopping/"
+    },
+    {
+     "id": "tamago-fuwafuwa",
+     "label": "袋井宿たまごふわふわ｜提供店・予約・駅からの行き方",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/tamago-fuwafuwa/"
+    },
+    {
+     "id": "melon-markets",
+     "label": "袋井のクラウンメロン・特産品・直売所ガイド",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/melon-markets/"
+    },
+    {
      "id": "family-outings",
      "label": "袋井市の子連れ・車なしのお出かけガイド",
      "url": "https://fukuroi.enshu-lifehack.com/life/play-out/family-outings/"
