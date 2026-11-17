@@ -750,7 +750,10 @@
   "synonyms": [
    "地震",
    "津波",
-   "地震対策"
+   "地震対策",
+   "防災備蓄",
+   "ローリングストック",
+   "簡易トイレ"
   ],
   "tier": "common",
   "source_iwata": [
@@ -822,6 +825,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/bosai_anzen/bosai/sonae/1529974788211.html",
     "label": "緊急！地震対策をお願いします／袋井市",
     "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/3/2/bosai/campaign.html",
+    "label": "備蓄品リストと協力店舗の案内／袋井市",
     "confidence": "high"
    }
   ],
@@ -2610,7 +2618,11 @@
   "category": "家族が増える",
   "synonyms": [
    "一時預かり",
-   "保育"
+   "保育",
+   "二次選考",
+   "保育園二次募集",
+   "令和9年度保育所",
+   "保育園の空き状況"
   ],
   "tier": "common",
   "source_iwata": [
@@ -2650,6 +2662,21 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/zenpan/index.html",
     "label": "保育園・幼稚園全般／袋井市",
     "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/hoikuen/14725.html",
+    "label": "令和9年度の申込・様式・利用調整／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/hoikuen/11862.html",
+    "label": "令和8年度の申込／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/hoikuen/1546584004210.html",
+    "label": "園・年齢別の空き状況／袋井市",
     "confidence": "high"
    }
   ],
@@ -2714,6 +2741,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/hoikuen_yochien/hoikuen/1569815060288.html",
     "label": "幼児教育・保育の無償化(施設等)について／袋井市",
     "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/25/1/hoikuen/14725.html",
+    "label": "市の募集対象と申込書類／袋井市",
     "confidence": "high"
    }
   ],
@@ -3406,7 +3438,9 @@
   "category": "健康・医療",
   "synonyms": [
    "休日夜間診療",
-   "急患診療所"
+   "急患診療所",
+   "休日の当番医",
+   "年末年始の診療"
   ],
   "tier": "common",
   "source_iwata": [
@@ -3447,6 +3481,16 @@
     "label": "休日夜間救急／袋井市",
     "match_score": 4,
     "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kosodate_kyoiku/kosodateshien/kyujitsukyukyu/11443.html",
+    "label": "日付別の当番医・電話番号・休診情報／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/shiseijoho/koho_kocho/kohofukuroi/reiwa8/15065.html",
+    "label": "広報11月号の救急診療・相談日程／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {},
@@ -4829,6 +4873,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/gomi_recycle/gomi/11525.html",
     "label": "粗大ごみ等の戸別収集について／袋井市",
     "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/juyo/12270.html",
+    "label": "施設別の受付時間／袋井市",
     "confidence": "high"
    }
   ],
@@ -6390,7 +6439,10 @@
   "category": "暮らし始めた",
   "synonyms": [
    "粗大ごみ",
-   "粗大ごみ持ち込み"
+   "粗大ごみ持ち込み",
+   "年末持ち込み",
+   "えこのば",
+   "年末の粗大ごみ"
   ],
   "tier": "common",
   "source_iwata": [
@@ -6439,6 +6491,11 @@
     "label": "中遠クリーンセンター／袋井市",
     "match_score": 5,
     "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/juyo/12270.html",
+    "label": "品目・施設ごとの年末年始受付表／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {},
@@ -6458,7 +6515,11 @@
    "住民票",
    "戸籍",
    "印鑑証明",
-   "証明書"
+   "証明書",
+   "コンビニ交付休止",
+   "コンビニ交付停止",
+   "住民票コンビニ",
+   "証明書メンテナンス"
   ],
   "tier": "common",
   "source_iwata": [
@@ -6519,6 +6580,16 @@
     "label": "証明書コンビニ交付サービスについて／袋井市",
     "match_score": 11,
     "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/juyo/13682.html",
+    "label": "臨時休止の日程／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/madoguchi/1422534776782.html",
+    "label": "窓口・オンライン請求／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {},
@@ -6537,7 +6608,11 @@
   "synonyms": [
    "支所",
    "出張所",
-   "窓口"
+   "窓口",
+   "開庁時間",
+   "水曜窓口",
+   "日曜窓口",
+   "市役所の営業時間"
   ],
   "tier": "common",
   "source_iwata": [
@@ -6582,6 +6657,16 @@
     "label": "市役所の組織と業務（令和8年度版）／袋井市",
     "match_score": 4,
     "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/1/3/gyoseikeiei/14625.html",
+    "label": "変更対象の施設と除外施設／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/madoguchi/14831.html",
+    "label": "日曜窓口の日程・予約・取扱業務／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {},
@@ -6717,7 +6802,11 @@
   "synonyms": [
    "ごみの日",
    "ごみカレンダー",
-   "分別"
+   "分別",
+   "年末年始のごみ",
+   "ごみ収集最終日",
+   "正月のごみ",
+   "年末ごみ"
   ],
   "tier": "common",
   "source_iwata": [
@@ -6770,6 +6859,11 @@
     "label": "中遠オープンガーデンガイドブックの配布・オープンガーデン見学会について／袋井市",
     "match_score": 5,
     "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/juyo/12270.html",
+    "label": "地区別の年末年始ごみ処理一覧／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {
@@ -6790,7 +6884,11 @@
   "title_iwata": "引っ越し直後でも、明日のごみを正しく出せるようにする。",
   "category": "暮らし始めた",
   "synonyms": [
-   "ごみの出し方"
+   "ごみの出し方",
+   "指定ごみ袋",
+   "透明袋",
+   "半透明の袋",
+   "指定袋の在庫"
   ],
   "tier": "common",
   "source_iwata": [
@@ -6842,6 +6940,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9058.html",
     "label": "マイナンバーカードご利用ガイドブック／袋井市",
     "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/juyo/14383.html",
+    "label": "指定ごみ袋の経過措置・売店の営業時間／袋井市",
     "confidence": "high"
    }
   ],
@@ -6950,6 +7053,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/9272.html",
     "label": "もっと便利に！マイナンバーカード／袋井市",
     "match_score": 5,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/tennyu_tenshutsu/1422534788881.html",
+    "label": "転入届の持ち物・代理人・受付場所／袋井市",
     "confidence": "high"
    }
   ],
@@ -7098,6 +7206,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/mynumber/card_3/10187.html",
     "label": "マイナンバーの「通知カード」廃止について／袋井市",
     "match_score": 8,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/mainannba/1468892151912.html",
+    "label": "交付通知書・予約・受取時間／袋井市",
     "confidence": "high"
    }
   ],
@@ -8488,7 +8601,9 @@
   "title_iwata": "誰に相談すればいいか分からない悩みを、正しい窓口へつなぐ。",
   "category": "困った・相談したい",
   "synonyms": [
-   "法律相談"
+   "法律相談",
+   "法律相談の予約",
+   "司法書士相談"
   ],
   "tier": "common",
   "source_iwata": [
@@ -8549,6 +8664,16 @@
     "label": "消費生活／袋井市",
     "match_score": 3,
     "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/kurashi_sodan/1422534751350.html",
+    "label": "市民法律相談の会場別予定表／袋井市",
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/kurashi_sodan/1490073047604.html",
+    "label": "司法書士相談の予約開始日／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {
@@ -8570,7 +8695,10 @@
   "category": "困った・相談したい",
   "synonyms": [
    "生活費相談",
-   "生活困窮"
+   "生活困窮",
+   "非課税世帯給付金",
+   "物価高騰対応重点支援給付金",
+   "確認書"
   ],
   "tier": "common",
   "source_iwata": [
@@ -8619,6 +8747,11 @@
     "label": "アルミ・スチール缶のふたは取らなくても大丈夫！／袋井市",
     "match_score": 3,
     "confidence": "low"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kenko_iryo/chiiki_sikatsu/seikatsufukushi/15003.html",
+    "label": "対象外となる条件・確認書・相談窓口／袋井市",
+    "confidence": "high"
    }
   ],
   "facts": {
@@ -9559,6 +9692,11 @@
     "url": "https://www.city.fukuroi.shizuoka.jp/kurashi_tetsuzuki/johoka/denshishinsei/10709.html",
     "label": "住民票などの証明書をオンラインで請求できます／袋井市",
     "match_score": 7,
+    "confidence": "high"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/8/2/shomei/1484275745812.html",
+    "label": "課税・非課税証明書の取扱条件／袋井市",
     "confidence": "high"
    }
   ],
