@@ -10825,5 +10825,97 @@
         "checked": "2026-11-18"
       }
     ]
-  }
+  },
+ {
+  "href": "/life/play-out/history-walk/",
+  "title": "袋井の歴史・文化財を歩く",
+  "icon": "🏯",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "歴史",
+   "文化財",
+   "史跡",
+   "まち歩き",
+   "歴史文化館",
+   "郷土資料館",
+   "近藤記念館",
+   "馬伏塚城"
+  ],
+  "status": "primary-source-verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/shiteibunkazai/index.html",
+    "label": "指定文化財について／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shiryokan/1425447023798.html",
+    "label": "袋井市郷土資料館・近藤記念館／袋井市"
+   }
+  ]
+ },
+ {
+  "href": "/life/play-out/fukuroi-juku/",
+  "title": "袋井宿・どまん中茶屋を歩く",
+  "icon": "🏯",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "袋井宿",
+   "どまん中茶屋",
+   "ど真ん中茶屋",
+   "旧東海道",
+   "東本陣",
+   "本町宿場公園",
+   "澤野医院記念館",
+   "松並木",
+   "久津部一里塚",
+   "木原一里塚"
+  ],
+  "status": "primary-source-verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/1/shisetsu/11062.html",
+    "label": "東海道どまん中茶屋／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/1/pamphlet/13147.html",
+    "label": "東海道五十三次 どまん中袋井宿「今昔マップ」／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/kanko_bunka/kanko_shisetsu/shiryokan/1425447017841.html",
+    "label": "澤野医院記念館／袋井市"
+   }
+  ]
+ },
+ {
+  "href": "/life/play-out/kuno-castle/",
+  "title": "久野城跡を親子で訪ねる",
+  "icon": "🏯",
+  "category": "遊ぶ・使う・出かける",
+  "synonyms": [
+   "久野城跡",
+   "久野城址",
+   "久野城",
+   "御城印",
+   "鷲巣",
+   "フーちゃん号"
+  ],
+  "status": "primary-source-verified",
+  "verified_date": "2026-11-18",
+  "sources_fukuroi": [
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/shiteibunkazai/9949.html",
+    "label": "久野城について／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/syougyou/2/bunkazai/panfu/1507602620293.html",
+    "label": "久野城見学案内パンフレット／袋井市"
+   },
+   {
+    "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1553644434284.html",
+    "label": "袋井市自主運行バス／袋井市"
+   }
+  ]
+ }
 ]

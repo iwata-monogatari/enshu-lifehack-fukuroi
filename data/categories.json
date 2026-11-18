@@ -264,6 +264,21 @@
    "url": "https://fukuroi.enshu-lifehack.com/life/play-out/",
    "items": [
     {
+     "id": "history-walk",
+     "label": "袋井の歴史・文化財を歩く",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/history-walk/"
+    },
+    {
+     "id": "fukuroi-juku",
+     "label": "袋井宿・どまん中茶屋を歩く",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/fukuroi-juku/"
+    },
+    {
+     "id": "kuno-castle",
+     "label": "久野城跡を親子で訪ねる",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/kuno-castle/"
+    },
+    {
      "id": "seasonal-events",
      "label": "袋井の祭り・季節のお出かけ",
      "url": "https://fukuroi.enshu-lifehack.com/life/play-out/seasonal-events/"
