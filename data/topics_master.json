@@ -10735,5 +10735,95 @@
     "label": "新鮮市　月見の里ひろば | 直売所一覧 | JA遠州中央"
    }
   ]
- }
+ },
+  {
+    "href": "/life/play-out/seasonal-events/",
+    "title": "袋井の祭り・季節のお出かけ",
+    "icon": "🏮",
+    "category": "遊ぶ・使う・出かける",
+    "synonyms": [
+      "季節",
+      "イベント",
+      "カレンダー",
+      "祭り"
+    ],
+    "status": "primary-source-verified",
+    "verified_date": "2026-11-18",
+    "sources_fukuroi": [
+      {
+        "url": "https://www.hattasan.or.jp/newwp/archives/5262",
+        "label": "法多山もみじまつり",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "href": "/life/play-out/fukuroi-matsuri/",
+    "title": "袋井まつりを子どもと楽しむ",
+    "icon": "🏮",
+    "category": "遊ぶ・使う・出かける",
+    "synonyms": [
+      "袋井まつり",
+      "秋祭り",
+      "北祭り",
+      "屋台",
+      "交通規制"
+    ],
+    "status": "primary-source-verified",
+    "verified_date": "2026-11-18",
+    "sources_fukuroi": [
+      {
+        "url": "https://www.fukuroi-kankou.jp/news/%E8%A2%8B%E4%BA%95%E3%80%80%E7%A7%8B%E3%81%AE%E7%A5%AD%E5%85%B8/",
+        "label": "袋井　秋の祭典",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "href": "/life/play-out/enshu-hanabi/",
+    "title": "遠州の花火を子連れ・車なしで楽しむ",
+    "icon": "🏮",
+    "category": "遊ぶ・使う・出かける",
+    "synonyms": [
+      "花火",
+      "ふくろい遠州の花火",
+      "チケット",
+      "2027"
+    ],
+    "status": "primary-source-verified",
+    "verified_date": "2026-11-18",
+    "sources_fukuroi": [
+      {
+        "url": "https://www.fukuroi-hanabi.jp/2026/09/09/2027/",
+        "label": "【開催日のご報告】ふくろい遠州の花火2027🎆✨",
+        "checked": "2026-11-18"
+      }
+    ]
+  },
+  {
+    "href": "/life/play-out/enshu-sanzan-seasons/",
+    "title": "遠州三山の花と灯りを巡る",
+    "icon": "🏮",
+    "category": "遊ぶ・使う・出かける",
+    "synonyms": [
+      "遠州三山",
+      "紅葉",
+      "もみじまつり",
+      "風鈴",
+      "ひなまつり",
+      "法多山",
+      "可睡齋",
+      "油山寺",
+      "ライトアップ"
+    ],
+    "status": "primary-source-verified",
+    "verified_date": "2026-11-18",
+    "sources_fukuroi": [
+      {
+        "url": "https://www.fukuroi-kankou.jp/feature/fukuroi-fuurin/",
+        "label": "遠州三山 風鈴まつり",
+        "checked": "2026-11-18"
+      }
+    ]
+  }
 ]

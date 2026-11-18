@@ -264,6 +264,26 @@
    "url": "https://fukuroi.enshu-lifehack.com/life/play-out/",
    "items": [
     {
+     "id": "seasonal-events",
+     "label": "袋井の祭り・季節のお出かけ",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/seasonal-events/"
+    },
+    {
+     "id": "fukuroi-matsuri",
+     "label": "袋井まつりを子どもと楽しむ",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/fukuroi-matsuri/"
+    },
+    {
+     "id": "enshu-hanabi",
+     "label": "遠州の花火を子連れ・車なしで楽しむ",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/enshu-hanabi/"
+    },
+    {
+     "id": "enshu-sanzan-seasons",
+     "label": "遠州三山の花と灯りを巡る",
+     "url": "https://fukuroi.enshu-lifehack.com/life/play-out/enshu-sanzan-seasons/"
+    },
+    {
      "id": "food-shopping",
      "label": "袋井の食べ歩き・買い物ガイド｜子連れ・車なしで巡る",
      "url": "https://fukuroi.enshu-lifehack.com/life/play-out/food-shopping/"

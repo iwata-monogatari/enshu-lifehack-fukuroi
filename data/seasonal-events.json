@@ -1,0 +1,487 @@
+{
+  "checked": "2026-11-18",
+  "sources": {
+    "matsuri": {
+      "url": "https://www.fukuroi-kankou.jp/news/%E8%A2%8B%E4%BA%95%E3%80%80%E7%A7%8B%E3%81%AE%E7%A5%AD%E5%85%B8/",
+      "label": "袋井　秋の祭典",
+      "checked": "2026-11-18"
+    },
+    "matsuribase": {
+      "url": "https://www.fukuroi-kankou.jp/sightseeing/%E8%A2%8B%E4%BA%95%E7%A7%8B%E3%81%BE%E3%81%A4%E3%82%8A/",
+      "label": "袋井秋まつり",
+      "checked": "2026-11-18"
+    },
+    "kitanorth": {
+      "url": "http://www.fukuroi-kitamatsuri.com/",
+      "label": "【公式サイト】袋井北祭りオフィシャルサイト|静岡県袋井市の北地区で行われる祭典のホームページです。",
+      "checked": "2026-11-18"
+    },
+    "nextfire": {
+      "url": "https://www.fukuroi-hanabi.jp/2026/09/09/2027/",
+      "label": "【開催日のご報告】ふくろい遠州の花火2027🎆✨",
+      "checked": "2026-11-18"
+    },
+    "hanabinews": {
+      "url": "https://www.fukuroi-hanabi.jp/news/",
+      "label": "お知らせ",
+      "checked": "2026-11-18"
+    },
+    "traffic": {
+      "url": "https://www.fukuroi-hanabi.jp/traffic/",
+      "label": "交通アクセス",
+      "checked": "2026-11-18"
+    },
+    "venue": {
+      "url": "https://www.fukuroi-hanabi.jp/venue/",
+      "label": "会場・観覧席案内",
+      "checked": "2026-11-18"
+    },
+    "firefaq": {
+      "url": "https://www.fukuroi-hanabi.jp/faq/",
+      "label": "よくある質問",
+      "checked": "2026-11-18"
+    },
+    "fireexit": {
+      "url": "https://www.fukuroi-hanabi.jp/2026/07/17/kiro/",
+      "label": "帰路のご案内(有料観覧席)",
+      "checked": "2026-11-18"
+    },
+    "firefaqcity": {
+      "url": "https://www.fukuroi-kankou.jp/news/%E3%81%B5%E3%81%8F%E3%82%8D%E3%81%84%E9%81%A0%E5%B7%9E%E3%81%AE%E8%8A%B1%E7%81%AB2026%F0%9F%8E%86%E3%80%80%E3%82%88%E3%81%8F%E3%81%82%E3%82%8B%E8%B3%AA%E5%95%8F/",
+      "label": "ふくろい遠州の花火2026🎆　よくある質問",
+      "checked": "2026-11-18"
+    },
+    "momiji": {
+      "url": "https://www.hattasan.or.jp/newwp/archives/5262",
+      "label": "法多山もみじまつり",
+      "checked": "2026-11-18"
+    },
+    "hatta": {
+      "url": "https://www.hattasan.or.jp/newwp/news",
+      "label": "新着情報",
+      "checked": "2026-11-18"
+    },
+    "hattacolor": {
+      "url": "https://www.hattasan.or.jp/newwp/archives/404",
+      "label": "紅葉情報 2026",
+      "checked": "2026-11-18"
+    },
+    "hattayear": {
+      "url": "https://www.hattasan.or.jp/saiji/",
+      "label": "法多山｜祭事案内　季節の催し物",
+      "checked": "2026-11-18"
+    },
+    "hattasakura": {
+      "url": "https://www.hattasan.or.jp/saiji/cherryblossomfes/",
+      "label": "法多山｜さくらまつり [祭事案内　季節の催し物]",
+      "checked": "2026-11-18"
+    },
+    "hattabus": {
+      "url": "https://www.hattasan.or.jp/newwp/archives/4208",
+      "label": "法多山⇔袋井駅間　運行バス終了のお知らせ",
+      "checked": "2026-11-18"
+    },
+    "hattafaq": {
+      "url": "https://www.hattasan.or.jp/qa/",
+      "label": "法多山｜よくある御質問",
+      "checked": "2026-11-18"
+    },
+    "hattamap": {
+      "url": "https://www.hattasan.or.jp/annai/index.html",
+      "label": "法多山｜境内・観光案内図",
+      "checked": "2026-11-18"
+    },
+    "kasuihina": {
+      "url": "https://www.kasuisai.or.jp/wp/p27",
+      "label": "可睡斎ひなまつり",
+      "checked": "2026-11-18"
+    },
+    "kasuimomiji": {
+      "url": "https://www.kasuisai.or.jp/wp/p29",
+      "label": "紅葉ご利益めぐり",
+      "checked": "2026-11-18"
+    },
+    "kasuihaikan": {
+      "url": "https://www.kasuisai.or.jp/wp/p06",
+      "label": "拝観のご案内",
+      "checked": "2026-11-18"
+    },
+    "kasuibus": {
+      "url": "https://www.kasuisai.or.jp/wp/p57",
+      "label": "アクセス・駐車場案内",
+      "checked": "2026-11-18"
+    },
+    "kasuiyear": {
+      "url": "https://www.kasuisai.or.jp/wp/p53",
+      "label": "観光・年間スケジュール",
+      "checked": "2026-11-18"
+    },
+    "kasuifire": {
+      "url": "https://www.kasuisai.or.jp/wp/p23",
+      "label": "秋葉の火まつり",
+      "checked": "2026-11-18"
+    },
+    "kasuifudo": {
+      "url": "https://www.kasuisai.or.jp/wp/p22",
+      "label": "奥之院不動尊大祭",
+      "checked": "2026-11-18"
+    },
+    "kasuibotan": {
+      "url": "https://www.kasuisai.or.jp/wp/p25",
+      "label": "ぼたん苑",
+      "checked": "2026-11-18"
+    },
+    "yusan": {
+      "url": "https://yusanji.jp/",
+      "label": "目の霊山 油山寺 YUSANJI",
+      "checked": "2026-11-18"
+    },
+    "yusancolor": {
+      "url": "https://yusanji.jp/notice/1020/",
+      "label": "11月17日紅葉状況",
+      "checked": "2026-11-18"
+    },
+    "yusanvisit": {
+      "url": "https://yusanji.jp/haikan-howa/",
+      "label": "拝観・法話",
+      "checked": "2026-11-18"
+    },
+    "furin": {
+      "url": "https://www.fukuroi-kankou.jp/feature/fukuroi-fuurin/",
+      "label": "遠州三山 風鈴まつり",
+      "checked": "2026-11-18"
+    },
+    "busouting": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/13151.html",
+      "label": "バスでお出かけしてみませんか？／袋井市",
+      "checked": "2026-11-18"
+    },
+    "buslive": {
+      "url": "https://www.akihabus.co.jp/",
+      "label": "秋葉バスサービス - 秋葉バスサービス",
+      "checked": "2026-11-18"
+    },
+    "bus": {
+      "url": "https://www.city.fukuroi.shizuoka.jp/soshiki/2/2/bus/1553644434284.html",
+      "label": "袋井市自主運行バス／袋井市",
+      "checked": "2026-11-18"
+    },
+    "railfuk": {
+      "url": "https://railway.jr-central.co.jp/station-guide/shizuoka/fukuroi/barrier-free.html",
+      "label": "袋井駅｜ＪＲ東海",
+      "checked": "2026-11-18"
+    },
+    "railaino": {
+      "url": "https://railway.jr-central.co.jp/station-guide/shizuoka/aino/barrier-free.html",
+      "label": "愛野駅｜ＪＲ東海",
+      "checked": "2026-11-18"
+    },
+    "calendar": {
+      "url": "https://www.fukuroi-kankou.jp/feature/event_calendar/",
+      "label": "イベントカレンダー",
+      "checked": "2026-11-18"
+    }
+  },
+  "events": [
+    {
+      "id": "momiji",
+      "title": "法多山もみじまつり",
+      "months": [
+        11,
+        12
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "2026年11月21日（土）～12月6日（日）",
+      "text": "スタンプラリーは期間中9～15時。マーケット・ライトアップは指定日のみ。栗だんごは11月29日まで。",
+      "source": "momiji",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#momiji",
+      "kind": "dated",
+      "start": "2026-11-21",
+      "end": "2026-12-06"
+    },
+    {
+      "id": "fire2027",
+      "title": "ふくろい遠州の花火2027",
+      "months": [
+        7
+      ],
+      "place": "city",
+      "access": "walk",
+      "period": "2027年7月31日（土）開催予定",
+      "text": "主催者が2026年9月9日に発表。観覧席・販売日・開催時刻・交通規制の2027年詳細は確認待ち。",
+      "source": "nextfire",
+      "guide": "/life/play-out/enshu-hanabi/",
+      "kind": "dated",
+      "start": "2027-07-31",
+      "end": "2027-07-31"
+    },
+    {
+      "id": "autumn",
+      "title": "可睡齋・油山寺の紅葉",
+      "months": [
+        11,
+        12
+      ],
+      "place": "sanzan",
+      "access": "mixed",
+      "period": "例年11月下旬～12月上旬を中心に、色づきで選ぶ",
+      "text": "油山寺の2026年11月17日発表は参道・山門前が色づき始め。見頃と行事開催日は別に確認。",
+      "source": "yusancolor",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#autumn",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "akihafire",
+      "title": "可睡齋 秋葉の火まつり",
+      "months": [
+        12
+      ],
+      "place": "kasui",
+      "access": "bus",
+      "period": "例年12月15～16日",
+      "text": "年の記載がない公式案内。15日の大祈祷から深夜の行事へ続く。夜間の帰路は通常バスで戻れると決めない。",
+      "source": "kasuifire",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#winter",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "newyear",
+      "title": "法多山 初詣・田遊祭",
+      "months": [
+        1,
+        12
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "例年12月31日～1月、田遊祭は1月7日",
+      "text": "初詣の臨時交通・受付は新年の案内を確認。乳幼児と行くなら日中参拝を軸に。",
+      "source": "hattayear",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#winter",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "yusanstar",
+      "title": "油山寺 星祭中日大祭",
+      "months": [
+        1
+      ],
+      "place": "yusan",
+      "access": "taxi",
+      "period": "例年1月の成人の日",
+      "text": "事前申込。公式一般案内は11時受付・12時祈祷、祈祷料2,000円。次回の申込受付を寺へ確認。",
+      "source": "yusan",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#winter",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "setsubun",
+      "title": "法多山 節分祭・星祭",
+      "months": [
+        2
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "例年2月／星祭は2月15～17日",
+      "text": "節分祭は当年の日付を確認。豆まきの人混みへ小さな子を入れず、参拝中心の計画も。",
+      "source": "hattayear",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#winter",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "hina2026",
+      "title": "可睡齋ひなまつり（2026年の記録）",
+      "months": [
+        1,
+        2,
+        3
+      ],
+      "place": "kasui",
+      "access": "bus",
+      "period": "2026年1月1日～3月31日",
+      "text": "2027年の開催日・料金は未確認。2026年は瑞龍閣の32段・約1,200体のひな飾りを公開。",
+      "source": "kasuihina",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#spring",
+      "kind": "dated",
+      "start": "2026-01-01",
+      "end": "2026-03-31"
+    },
+    {
+      "id": "sakura",
+      "title": "法多山 桜・さくらまつり",
+      "months": [
+        3,
+        4
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "例年3月下旬～4月上旬",
+      "text": "年間案内では3月最終・4月第1土日を目安に、親子写生大会や春のお茶まつり。次回の募集・開催日は未確認。",
+      "source": "hattasakura",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#spring",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "botan",
+      "title": "可睡齋ぼたん苑",
+      "months": [
+        4,
+        5
+      ],
+      "place": "kasui",
+      "access": "bus",
+      "period": "例年4月中旬～5月上旬",
+      "text": "屋外のぼたん苑。開花と当年の開苑期間を確認。ひなまつりの室内ぼたん庭園とは期間が違う。",
+      "source": "kasuibotan",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#spring",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "yusankobo",
+      "title": "油山寺 弘法大師大祭",
+      "months": [
+        4
+      ],
+      "place": "yusan",
+      "access": "taxi",
+      "period": "例年4月21日",
+      "text": "事前申込の行事。公式一般案内は11時受付・12時法要、2,000円。食事内容・申込可否は寺へ。",
+      "source": "yusan",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#spring",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "hotaru",
+      "title": "法多山 ホタル・あじさい",
+      "months": [
+        5,
+        6
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "ホタルは例年5月下旬頃から／あじさいは6月中旬～下旬",
+      "text": "ホタルは夜、あじさいは昼の散策に。天候で時期が変わるため生育・開催情報を確認。",
+      "source": "hattayear",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#summer",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "furin2026",
+      "title": "遠州三山 風鈴まつり（2026年の記録）",
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "place": "sanzan",
+      "access": "mixed",
+      "period": "2026年5月23日～8月23日",
+      "text": "2027年日程は未確認。法多山の願掛け風鈴、可睡齋の風鈴の小道、油山寺の鉄風鈴を楽しむ季節。",
+      "source": "furin",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#summer",
+      "kind": "dated",
+      "start": "2026-05-23",
+      "end": "2026-08-23"
+    },
+    {
+      "id": "manto",
+      "title": "法多山 万灯祭",
+      "months": [
+        7
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "例年7月9・10日",
+      "text": "灯籠を奉納する夏の行事。次回の点灯時刻・出店・臨時交通は当年発表で確認。",
+      "source": "hattayear",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#summer",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "hyakuman",
+      "title": "油山寺 百万遍",
+      "months": [
+        8
+      ],
+      "place": "yusan",
+      "access": "taxi",
+      "period": "例年8月8日",
+      "text": "公式一般案内は10時30分から、無料・誰でも参加可。大きな数珠を繰る行事。次回開催は寺へ確認。",
+      "source": "yusan",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#summer",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "fudo",
+      "title": "可睡齋 奥之院不動尊大祭",
+      "months": [
+        8
+      ],
+      "place": "kasui",
+      "access": "bus",
+      "period": "例年8月28日",
+      "text": "奉納花火・手筒花火・灯籠流しを伴う夜の行事。翌年のプログラムと帰りの足を先に確認。",
+      "source": "kasuifudo",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#summer",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "hoshi",
+      "title": "法多山 星満夜",
+      "months": [
+        9,
+        10
+      ],
+      "place": "hatta",
+      "access": "taxi",
+      "period": "例年9月下旬～10月上旬の新月の週末",
+      "text": "夜の催し。翌年の実施日や内容は、年の付いた公式新着で確認。",
+      "source": "hattayear",
+      "guide": "/life/play-out/enshu-sanzan-seasons/#autumn",
+      "kind": "annual",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": "matsuri2026",
+      "title": "袋井まつり・ふくろい北祭り（2026年の記録）",
+      "months": [
+        10
+      ],
+      "place": "city",
+      "access": "walk",
+      "period": "2026年10月9日（金）～11日（日）",
+      "text": "2027年日程は未確認。駅北口～静橋周辺の袋井まつりと北地区の祭りは、会場・運行表を分けて見る。",
+      "source": "matsuri",
+      "guide": "/life/play-out/fukuroi-matsuri/",
+      "kind": "dated",
+      "start": "2026-10-09",
+      "end": "2026-10-11"
+    }
+  ]
+}
