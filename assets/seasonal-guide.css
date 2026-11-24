@@ -1,0 +1,24 @@
+.seasonal-guide {padding-bottom: 2rem}
+.seasonal-guide .wrap {max-width: 990px}
+.seasonal-head {
+  margin: 1.1rem 0;
+  padding: clamp(1.2rem, 4vw, 2.5rem);
+  border: 1px solid #c8dce4;
+  border-radius: 14px;
+  background: #edf4f5;
+  color: #173646;
+}
+.seasonal-head h1 {margin: 0 0 .75rem; font-size: clamp(1.5rem, 4vw, 2.35rem); line-height: 1.38; word-break: auto-phrase}
+.seasonal-head p {max-width: 45em; line-height: 1.8}
+.seasonal-head .seasonal-date {font-size: .82rem; margin-bottom: 0}
+.seasonal-nav,.seasonal-share {display: flex; flex-wrap: wrap; align-items: center; gap: .55rem}
+.seasonal-nav a,.seasonal-share button {
+  display: inline-flex; align-items: center; min-height: 44px;
+  padding: .45rem .85rem; border: 1px solid #c8dce4; border-radius: 8px;
+  background: #fff; color: #174457; font: inherit; font-weight: 700;
+}
+.seasonal-share button {cursor: pointer}
+.seasonal-guide [hidden] {display: none !important}
+.seasonal-nav a:focus-visible,.seasonal-share button:focus-visible {outline: 3px solid #006e98; outline-offset: 2px}
+.seasonal-guide li {margin: .35rem 0}
+.seasonal-guide a {overflow-wrap: anywhere}
