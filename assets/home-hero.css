@@ -16,6 +16,7 @@ body.home .hero.home-hero h1 {
   font-size: clamp(1.55rem, 3.2vw, 2.65rem);
   line-height: 1.35;
   text-wrap: balance;
+  word-break: auto-phrase;
 }
 body.home .hero.home-hero .eyebrow, body.home .hero.home-hero .lead {color: #315767}
 body.home .hero.home-hero .lead {margin: 0; line-height: 1.8}
